@@ -28,6 +28,16 @@ html {
   margin-right: 24%;
 }
 
+.barrace {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  /*border: 1px solid black;*/
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 .center {
   display: flex;
   justify-content: center;
@@ -38,8 +48,10 @@ html {
 
 .button {
   background-color: Transparent; 
-  border: 2px solid white;
-  color: white;
+  /*border: 2px solid white;*/
+  border: 2px solid #f7a440;
+  /*color: white;*/
+  color: #f7a440;
   padding: 16px 32px;
   text-align: center;
   text-decoration: none;
@@ -52,13 +64,13 @@ html {
 
 .button:hover {
   background-color: grey;
-  color: white;
+  color: #f7a440;
 }
 
 .button_black {
   background-color: Transparent; 
-  border: 2px solid black;
-  color: black;
+  border: 2px solid #f7a440;
+  color: #f7a440;
   padding: 16px 32px;
   text-align: center;
   text-decoration: none;
@@ -71,7 +83,7 @@ html {
 
 .button_black:hover {
   background-color: grey;
-  color: white;
+  color: #f7a440;
 }
 
 #Intro{
@@ -173,9 +185,9 @@ html {
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h1>TODO: Introduction</h1>
+				<h1 style="color: #f7a440">TODO: Introduction</h1>
 					<p> Intro Intro </p>
-					<p>text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t </p>
+					<p style="text-align: left;">text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t </p>
 					<p> <br> </p>
 			</div><!-- End col-md-12 -->
 		</div><!-- End row -->
@@ -183,16 +195,16 @@ html {
 	<div class="row">
 			<div class="col-md-6 col-sm-6">
 				<div class="feature-box">
-					<h1>Obesity</h1>
-					<span><i style="font-size: 150px;"class="fas fa-weight"></i></span>
-					<p><br> According to the World Health Organization (WHO), a body mass index (BMI) over 25 is considered overweight, and BMI over 30 is considered obese. BMI is defined as body weight over height squared. </p>
+					<h2>Obesity</h2>
+					<span><i style="font-size: 150px; color: #f7a440" class="fas fa-weight"></i></span>
+					<p style="text-align: left;"><br> According to the World Health Organization (WHO), a body mass index (BMI) over 25 is considered overweight, and BMI over 30 is considered obese. BMI is defined as body weight over height squared. </p>
 				</div>
 			</div><!-- End col-md-6 -->
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="feature-box">
-					<h1>Danger</h1>
-					<span><i style="font-size: 150px;" class="fas fa-exclamation-circle"></i></span>
-					<p><br>Side effects of obeisty include high blood pressure, abnormal cholesterol levels, type 2 diabetes, coronary heart disease, stroke, and more. </p>
+					<h2>Danger</h2>
+					<span><i style="font-size: 150px; color: #f7a440" class="fas fa-exclamation-circle"></i></span>
+					<p style="text-align: left;"><br>Side effects of obeisty include high blood pressure, abnormal cholesterol levels, type 2 diabetes, coronary heart disease, stroke, and more. </p>
 				</div>
 			</div><!-- End col-md-6 -->
 
@@ -204,7 +216,7 @@ html {
 
 <!-- Beeswarm and Map -->
 <section id="beeswarm" class="call-top-action">
-	<div><h1 style="text-align: center; top:30px"> World Map and Beeswarm Chart of Adult Obesity</h1></div>
+	<div><h1 style="text-align: center; top:30px; color:#f7a440;"> World Map and Beeswarm Chart of Adult Obesity</h1></div>
 	
 	<div style="position:relative;">
 		<h3 style="text-align: center; position: relative; top:25px"> Description Here </h3>
@@ -264,11 +276,37 @@ html {
 
 <!-- Bar Chart Race and Line Chart -->
 <section id="barrace" class="call-top-action">
-	<div><h1 style="text-align: center; "> Number of Deaths by Obesity and Top Risk Factors </h1></div>
+	<div><h1 style="text-align: center; color: #f7a440"> Number of Deaths by Obesity and Top Risk Factors </h1></div>
 	<br>
 	<div><h3 style="text-align: center; "> Description Here </h3></div>
 	<div><h4 style="text-align: center; "> here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf </h4></div>
 
+	<div style="position:relative; text-align: center;">
+		<h4> Use the Replay button below to restart the chart animation. </h4>
+	</div>
+
+	<div class="center">
+		<div id="observablehq-viewof-replay-1d30900c"></div>
+	</div>
+	<br>
+
+	<div><h3 style="text-align: center; "> !Chart Title Here! </h3></div>
+
+	<div style="position: relative; top: 60px" class="barrace">
+		<div style="width: 100%; display: table;">
+			<div style="display: table-row;">
+		        <div style="width: 50%; display: table-cell; ">
+		            <div style="position: relative; top: -40px" id="observablehq-chart-1d30900c"></div>
+		        </div>
+			</div>
+		</div>
+	</div>
+
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<div class="center">
 		<a style="position: relative" href="#deathmap" class="button_black">Continue</a>
 	</div>
@@ -280,7 +318,7 @@ html {
 
 <!-- Share of Death -->
 <section id="deathmap" class="call-top-action">
-	<div><h1 style="text-align: center; "> Share of Death by Obesity on the Rise </h1></div>
+	<div><h1 style="text-align: center; color: #f7a440"> Share of Death by Obesity on the Rise </h1></div>
 	<br>
 	<div><h3 style="text-align: center; "> Description Here </h3></div>
 
@@ -334,9 +372,9 @@ html {
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h1>TODO: Talk about Calories</h1>
+				<h1 style="color: #f7a440">TODO: Talk about Calories</h1>
 					<p> Cal cal cal </p>
-					<p>text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t </p>
+					<p style="text-align: left;">text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t </p>
 					<p> <br> </p>
 			</div><!-- End col-md-12 -->
 		</div><!-- End row -->
@@ -344,89 +382,31 @@ html {
 	<div class="row">
 			<div class="col-md-6 col-sm-6">
 				<div class="feature-box">
-					<h1>Calorie</h1>
-					<span><i style="font-size: 150px;"class="fas fa-hamburger"></i></span>
-					<p><br>Calorie Definition? asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf</p>
+					<h2>Calorie</h2>
+					<span><i style="font-size: 150px; color: #f7a440"class="fas fa-hamburger"></i></span>
+					<p style="text-align: left;"><br>A calorie is defined as the amount of energy needed to raise the temperature of one gram of water by one degree Celsius. Calories on the Nutrition Facts show the amount of (kilo)calories the specific item contains.</p>
 				</div>
 			</div><!-- End col-md-6 -->
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="feature-box">
-					<h1>????TODO</h1>
-					<span><i style="font-size: 150px;" class="fas fa-exclamation-circle"></i></span>
-					<p><br> Studies showing relationship with obesity? f asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf </p>
+					<h2>Empty Calories</h2>
+					<span><i style="font-size: 150px; color: #f7a440" class="fas fa-candy-cane"></i></span>
+					<p style="text-align: left;"><br> Foods with empty calories are primarily composed of sugar, fats, oils, or alcohols. Although they do provide food energy, they have little to no nutrition values. </p>
 				</div>
 			</div>
 
 			<div class="clearfix"></div><!-- End clearfix -->
 		</div>
-	<a style="position: relative;" href="#calorieschart" class="button">Continue</a>
+	<a style="position: relative;" href="#caloriesgm" class="button">Continue</a>
 	</div><!-- End container -->
 </section>
 
 
 
-<!-- Calories Trend -->
-<section id="calorieschart" class="call-top-action">
-	<div><h1 style="text-align: center;"> Side-by-Side View of Obeisty and Caloric Supply  </h1></div>
-	<br>
-
-	<div style="position:relative;">
-		<h3 style="text-align: center; position: relative;"> Description Here </h3>
-	</div>
-	
-	<div style="position:relative;">
-		<h4 style="text-align: center; position: relative;"> Hover over the lines on the Change in Obesity chart to see the respective Change in Calories.
-		<br>
-		<br> Select continents to be displayed using the check box below.
-		<br> Use the search box (type or select) to lock onto a desired country. Note that you cannot hover on the chart when a country is manually selected.  </h4>
-	</div>
-
-	<div class="center">
-		<div id="observablehq-viewof-selected_continents-b8bfcf16"></div>
-	</div>
-
-	<div class="center">
-		<div id="observablehq-viewof-selected_country-b8bfcf16"></div>
-	</div>
-
-
-	<div style="position: absolute; left: 150px; margin-top: 60px;" id="observablehq-legend-b8bfcf16"></div>
-
-
-
-	<div style="position: relative; top: 70px; width: 100%; display: table; border-spacing: 15px;">
-		<div style="display: table-row;">
-	        <div style="width: 50%; display: table-cell; ">
-	            <div id="observablehq-chart-b8bfcf16"></div>
-	        </div>
-	        <div style="display: table-cell; "> 
-	            <div id="observablehq-chart2-b8bfcf16"></div>
-	        </div>
-		</div>
-	</div>
-	
-
-	<div class="center">
-		<a style="position: relative; top: 100px" href="#caloriesgm" class="button_black">Continue</a>
-	</div>
-
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-
-</section>
-
-<div> <hr style="border: 5px solid #474A56"> </div>
-
-
-
 <!-- Gap Minder Style Calories Map -->
 
-<!-- Share of Death -->
 <section id="caloriesgm" class="call-top-action">
-	<div><h1 style="text-align: center; "> Gapminder Style! </h1></div>
+	<div><h1 style="text-align: center; color: #f7a440"> Gapminder Style! </h1></div>
 	<br>
 	<div><h3 style="text-align: center; "> Description Here </h3></div>
 	<div><h4 style="text-align: center; "> here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf </h4></div>
@@ -463,16 +443,82 @@ html {
 
 
 	<br>
-	<br>
 <!-- 	<div class="center">
 		<a style="position: relative; top: 100px" href="#Calories" class="button_black">Continue</a>
 	</div> -->
+	<div class="center">
+		<a style="position: relative; top: 100px" href="#calorieschart" class="button_black">Continue</a>
+	</div>
+
+	<br>
+	<br>
+	<br>
+	<br>
+
+
+</section>
+
+
+
+<div> <hr style="border: 5px solid #474A56"> </div>
+
+
+
+<!-- Calories Trend -->
+<section id="calorieschart" class="call-top-action">
+	<div><h1 style="text-align: center; color: #f7a440"> Side-by-Side View of Obeisty and Caloric Supply  </h1></div>
+	<br>
+
+	<div style="position:relative;">
+		<h3 style="text-align: center; position: relative;"> Description Here </h3>
+	</div>
+	
+	<div style="position:relative;">
+		<h4 style="text-align: center; position: relative;"> Hover over the lines on the Change in Obesity chart to see the respective Change in Calories.
+		<br>
+		<br> Select continents to be displayed using the check box below.
+		<br> Use the search box (type or select) to lock onto a desired country. Note that you cannot hover on the chart when a country is manually selected.  </h4>
+	</div>
+
+	<div class="center">
+		<div id="observablehq-viewof-selected_continents-3b472422"></div>
+	</div>
+
+	<div class="center">
+		<div id="observablehq-viewof-selected_country-3b472422"></div>
+	</div>
+
+
+	<div style="position: absolute; left: 150px; margin-top: 60px;" id="observablehq-legend-3b472422"></div>
+
+
+
+	<div style="position: relative; top: 70px; width: 100%; display: table; border-spacing: 15px;">
+		<div style="display: table-row;">
+	        <div style="width: 50%; display: table-cell; ">
+	            <div id="observablehq-chart-3b472422"></div>
+	        </div>
+	        <div style="display: table-cell; "> 
+	            <div id="observablehq-chart2-3b472422"></div>
+	        </div>
+		</div>
+	</div>
+	
+
+	<div class="center">
+		<a style="position: relative; top: 100px" href="#conclusion" class="button_black">Continue</a>
+	</div>
+
+	<br>
 	<br>
 	<br>
 	<br>
 	<br>
 
 </section>
+
+
+
 
 
 
@@ -561,7 +607,7 @@ html {
 
 
 <!-- Call to Action -->
-<section class="call-top-action text-center">
+<section id = "conclusion" class="call-top-action text-center">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -613,6 +659,14 @@ new Runtime().module(define, name => {
 
 <!-- Import Bar Chart Race -->
 
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@hyeyounge/race-bar-and-line-chart.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "viewof replay") return new Inspector(document.querySelector("#observablehq-viewof-replay-1d30900c"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-1d30900c"));
+});
+</script>
 
 
 <!-- Import Death Map -->
@@ -629,24 +683,6 @@ new Runtime().module(define, name => {
   return ["data","projection"].includes(name);
 });
 </script>
-
-
-
-<!-- Import Calories  -->
-
-<script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/@yowhan/final-project-multi-line-charts.js?v=3";
-new Runtime().module(define, name => {
-  if (name === "viewof selected_continents") return new Inspector(document.querySelector("#observablehq-viewof-selected_continents-b8bfcf16"));
-  if (name === "legend") return new Inspector(document.querySelector("#observablehq-legend-b8bfcf16"));
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-b8bfcf16"));
-  if (name === "chart2") return new Inspector(document.querySelector("#observablehq-chart2-b8bfcf16"));
-  if (name === "viewof selected_country") return new Inspector(document.querySelector("#observablehq-viewof-selected_country-b8bfcf16"));
-  return ["data","selected_country","hover","y","yAxis","color","select_script","selected_to_data","line","colorLegend"].includes(name);
-});
-</script>
-
 
  
 <!-- Import Gapminder Style -->
@@ -665,6 +701,22 @@ new Runtime().module(define, name => {
 </script>
 
 
+
+<!-- Import Calories  -->
+
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@yowhan/final-project-multi-line-charts.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "viewof selected_continents") return new Inspector(document.querySelector("#observablehq-viewof-selected_continents-3b472422"));
+  if (name === "legend") return new Inspector(document.querySelector("#observablehq-legend-3b472422"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-3b472422"));
+  if (name === "chart2") return new Inspector(document.querySelector("#observablehq-chart2-3b472422"));
+  if (name === "viewof selected_country") return new Inspector(document.querySelector("#observablehq-viewof-selected_country-3b472422"));
+  return ["data","selected_country","hover","y","yAxis","color","select_script","selected_to_data","line","colorLegend"].includes(name);
+});
+</script>
 
 
 
