@@ -8,6 +8,16 @@ html {
 }
 
 
+.gapminderstyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  /*border: 1px solid black;*/
+  margin-left: 24%;
+  margin-right: 24%;
+}
+
 .deathmap {
   display: flex;
   justify-content: center;
@@ -103,6 +113,10 @@ html {
 	margin-right: 100px;
 }
 
+/*#observablehq-chartAnimate-f948bf10{
+	width: 100%;
+}
+*/
 
 /*
 .button1 {
@@ -171,14 +185,14 @@ html {
 				<div class="feature-box">
 					<h1>Obesity</h1>
 					<span><i style="font-size: 150px;"class="fas fa-weight"></i></span>
-					<p><br>Definition of Obesity here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf </p>
+					<p><br> According to the World Health Organization (WHO), a body mass index (BMI) over 25 is considered overweight, and BMI over 30 is considered obese. BMI is defined as body weight over height squared. </p>
 				</div>
 			</div><!-- End col-md-6 -->
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="feature-box">
 					<h1>Danger</h1>
 					<span><i style="font-size: 150px;" class="fas fa-exclamation-circle"></i></span>
-					<p><br>Side Effects of Obesity here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf </p>
+					<p><br>Side effects of obeisty include high blood pressure, abnormal cholesterol levels, type 2 diabetes, coronary heart disease, stroke, and more. </p>
 				</div>
 			</div><!-- End col-md-6 -->
 
@@ -197,7 +211,7 @@ html {
 	</div>
 	
 	<div style="position:relative;">
-		<h4 style="text-align: center; position: relative; top:25px"> Play Description </h4>
+		<h4 style="text-align: center; position: relative; top:25px"> Click the Play button below to automatically iterate over the years. Or use the scroller to manually select a year. </h4>
 	</div>
 	
 	<div class="center">
@@ -205,7 +219,7 @@ html {
 	</div>
 	
 	<div style="position:relative; top:25px">
-		<h4 style="text-align: center; "> Selector Description </h4>
+		<h4 style="text-align: center; "> Select the continents to be displayed on the Beeswarm chart using the check box. <br> Click a country on the map to track. You can reset the country using the Reset button below. <br> Hover over countries on map or beeswarm chart for detailed obesity percentages. Radius of circles in the beeswarm chart reflect population size. </h4>
 	</div>
 
 	<div class="center">
@@ -217,7 +231,7 @@ html {
 	</div>
 
 	<div>
-		<h4 style="text-align: center; position: relative; top: 25px"> Spatial Description </h4>
+		<h4 style="text-align: center; position: relative; top: 25px"> You can adjust the spatial density of the beeswarm chart using the slider below. <br> Lower spatial density value helps you study the continent-level trends, and higher spatial density value helps you observe the world-wide-level trends. </h4>
 	</div>
 
 	<div class="center">
@@ -269,10 +283,9 @@ html {
 	<div><h1 style="text-align: center; "> Share of Death by Obesity on the Rise </h1></div>
 	<br>
 	<div><h3 style="text-align: center; "> Description Here </h3></div>
-	<div><h4 style="text-align: center; "> here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf </h4></div>
 
 	<div>
-		<h4 style="text-align: center; "> Play Button Description </h4>
+		<h4 style="text-align: center; "> Use the Play button or the scroller below to iterate over the years. </h4>
 	</div>
 
 	<div class="center">
@@ -280,7 +293,7 @@ html {
 	</div>
 
 	<div>
-		<h4 style="text-align: center; "> Selector Description </h4>
+		<h4 style="text-align: center; "> Select the area to zoom to using the check box below. <br> Click a country of interest on the map, and reset using the Reset button. </h4>
 	</div>
 
 	<div class="center">
@@ -362,7 +375,10 @@ html {
 	</div>
 	
 	<div style="position:relative;">
-		<h4 style="text-align: center; position: relative;"> Play Description </h4>
+		<h4 style="text-align: center; position: relative;"> Hover over the lines on the Change in Obesity chart to see the respective Change in Calories.
+		<br>
+		<br> Select continents to be displayed using the check box below.
+		<br> Use the search box (type or select) to lock onto a desired country. Note that you cannot hover on the chart when a country is manually selected.  </h4>
 	</div>
 
 	<div class="center">
@@ -414,49 +430,48 @@ html {
 	<br>
 	<div><h3 style="text-align: center; "> Description Here </h3></div>
 	<div><h4 style="text-align: center; "> here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf </h4></div>
-<!-- 
-	<div>
-		<h4 style="text-align: center; "> Play Button Description </h4>
-	</div>
-
-	<div class="center">
-		<div id="observablehq-viewof-target_year-521288e1"></div>
-	</div>
 
 	<div>
-		<h4 style="text-align: center; "> Selector Description </h4>
+		<h4 style="text-align: center; "> Use the Play button or the scroller below to iterate over the years.  </h4>
 	</div>
 
 	<div class="center">
-		<div id="observablehq-viewof-selector-521288e1"></div>
-	</div>
-	<div class="center" style="margin-left: 200px">
-		<div id="observablehq-viewof-toggle-521288e1"></div>
+		<div id="observablehq-viewof-yearAnimate-f948bf10"></div>
 	</div>
 
-	<br>
-
-	<div style="position: relative; top: 60px" class="deathmap">
-		<div style="width: 100%; display: table;">
-			<div style="display: table-row;">
-		        <div style="width: 50%; display: table-cell; ">
-		            <div id="observablehq-map-521288e1"></div>
-		        </div>
-			</div>
-		</div>
+	<div>
+		<h4 style="text-align: center; "> Hover on the circles to check out which country each circle represents. Circle radii reflects population size. 
+		<br> Again, you can use the check box and search box below to adjust the chart.  </h4>
 	</div>
 
-	<div style="opacity: 0" id="observablehq-script-521288e1"></div>
-
-	<br>
 	<div class="center">
+		<div id="observablehq-viewof-selected_continents-f948bf10"></div>
+	</div>
+	<div class="center" style="">
+		<div id="observablehq-viewof-selected_country-f948bf10"></div>
+	</div>
+
+	<div class="center" style="">
+		<div style="position: relative; top: 90px; right: 300px" id="observablehq-legend-f948bf10"></div>
+	</div>
+
+	<!-- <div style="position: relative; margin-left: 20%" id="observablehq-legend-f948bf10"></div> -->
+
+	<div class="gapminderstyle">
+		<div style="position: relative;" id="observablehq-chartAnimate-f948bf10"></div>
+	</div>
+
+
+	<br>
+	<br>
+<!-- 	<div class="center">
 		<a style="position: relative; top: 100px" href="#Calories" class="button_black">Continue</a>
-	</div>
+	</div> -->
 	<br>
 	<br>
 	<br>
 	<br>
- -->
+
 </section>
 
 
@@ -554,7 +569,14 @@ html {
 				<p>text alsdkj laksdf asldkf l;akjf;lak ;ldasj ;lads;l kasfd;lka;lkdsa;lkadsf;lakf;lkj lasdfas  
 				<br />
 				text alsdkj laksdf asldkf l;akjf;lak ;ldasj ;lads;l kasfd;lka;lkdsa;lkadsf;lakf;lkj lasdfas  </p>
-				<span>END END</span>
+				<div>END END</div>
+				<div class="center">
+					<a style="position: relative; top: 100px" href="#homeFullScreen" class="button">Back to the Top</a>
+				</div>
+				<br>
+				<br>
+				<br>
+				<br>
 			</div><!-- End col-md-12 -->
 		</div><!-- End row -->
 	</div><!-- End container -->
@@ -622,6 +644,23 @@ new Runtime().module(define, name => {
   if (name === "chart2") return new Inspector(document.querySelector("#observablehq-chart2-b8bfcf16"));
   if (name === "viewof selected_country") return new Inspector(document.querySelector("#observablehq-viewof-selected_country-b8bfcf16"));
   return ["data","selected_country","hover","y","yAxis","color","select_script","selected_to_data","line","colorLegend"].includes(name);
+});
+</script>
+
+
+ 
+<!-- Import Gapminder Style -->
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@yowhan/final-project-obese-vs-calories.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "legend") return new Inspector(document.querySelector("#observablehq-legend-f948bf10"));
+  if (name === "viewof selected_continents") return new Inspector(document.querySelector("#observablehq-viewof-selected_continents-f948bf10"));
+  if (name === "viewof selected_country") return new Inspector(document.querySelector("#observablehq-viewof-selected_country-f948bf10"));
+  if (name === "viewof yearAnimate") return new Inspector(document.querySelector("#observablehq-viewof-yearAnimate-f948bf10"));
+  if (name === "chartAnimate") return new Inspector(document.querySelector("#observablehq-chartAnimate-f948bf10"));
+  return ["dataInitial","selected_country","setting"].includes(name);
 });
 </script>
 
