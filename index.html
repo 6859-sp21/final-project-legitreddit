@@ -8,6 +8,18 @@ html {
 }
 
 
+/*.descriptiontext {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  height: 400px;
+  border: 1px solid black;
+  margin-left: 25%;
+  margin-right: 25%;
+}*/
+
+
+
 .gapminderstyle {
   display: flex;
   justify-content: center;
@@ -52,11 +64,11 @@ html {
   border: 2px solid #f7a440;
   /*color: white;*/
   color: #f7a440;
-  padding: 16px 32px;
+  padding: 10px 70px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
@@ -71,11 +83,11 @@ html {
   background-color: Transparent; 
   border: 2px solid #f7a440;
   color: #f7a440;
-  padding: 16px 32px;
+  padding: 10px 70px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
@@ -185,9 +197,10 @@ html {
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h1 style="color: #f7a440">TODO: Introduction</h1>
-					<p> Intro Intro </p>
-					<p style="text-align: left;">text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t </p>
+				<h1 style="color: #f7a440">The Danger of Obesity </h1>
+					<br>
+					<h4 style="text-align: left;">In this project, we highlight an ongoing problem of obesity around the world by presenting the growing trends of obesity rate and related factors. Obesity should not be ignored as something trivial because obesity is becoming one of the leading risk factors for early death and is responsible for 4.7 million deaths in 2017 alone. <br><br> Obesity used to be a problem only in the high-income countries, but it has recently become an emerging problem in the low-income countries as well. We first highlight this fatal problem of growing obesity rates across the world using multiple interactive and animated charts.
+					</h4>
 					<p> <br> </p>
 			</div><!-- End col-md-12 -->
 		</div><!-- End row -->
@@ -195,16 +208,16 @@ html {
 	<div class="row">
 			<div class="col-md-6 col-sm-6">
 				<div class="feature-box">
-					<h2>Obesity</h2>
-					<span><i style="font-size: 150px; color: #f7a440" class="fas fa-weight"></i></span>
-					<p style="text-align: left;"><br> According to the World Health Organization (WHO), a body mass index (BMI) over 25 is considered overweight, and BMI over 30 is considered obese. BMI is defined as body weight over height squared. </p>
+					<h3 style="color: #f7a440">Obesity</h3>
+					<span><i style="font-size: 100px; color: #f7a440" class="fas fa-weight"></i></span>
+					<h4 style="text-align: left;"><br> According to the World Health Organization (WHO), a body mass index (BMI) over 25 is considered overweight, and BMI over 30 is considered obese. BMI is defined as body weight over height squared. </h4>
 				</div>
 			</div><!-- End col-md-6 -->
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="feature-box">
-					<h2>Danger</h2>
-					<span><i style="font-size: 150px; color: #f7a440" class="fas fa-exclamation-circle"></i></span>
-					<p style="text-align: left;"><br>Side effects of obeisty include high blood pressure, abnormal cholesterol levels, type 2 diabetes, coronary heart disease, stroke, and more. </p>
+					<h3 style="color: #f7a440">Danger</h3>
+					<span><i style="font-size: 100px; color: #f7a440" class="fas fa-exclamation-circle"></i></span>
+					<h4 style="text-align: left;"><br>Side effects of obeisty include high blood pressure, abnormal cholesterol levels, type 2 diabetes, coronary heart disease, stroke, and more. </h4>
 				</div>
 			</div><!-- End col-md-6 -->
 
@@ -219,11 +232,12 @@ html {
 	<div><h1 style="text-align: center; top:30px; color:#f7a440;"> World Map and Beeswarm Chart of Adult Obesity</h1></div>
 	
 	<div style="position:relative;">
-		<h3 style="text-align: center; position: relative; top:25px"> Description Here </h3>
+		<h4 style="position: relative; top:25px; margin-left: 15%; margin-right: 15%;"> In the map on the left and beeswarm chart on the right, we see the rates of adults who are obese across the world by country. It is true that high-income countries generally have higher obesity rates, but we can notice that the overall global trend has been increasing for the past few decades. </h4>
 	</div>
+	<br>
 	
 	<div style="position:relative;">
-		<h4 style="text-align: center; position: relative; top:25px"> Click the Play button below to automatically iterate over the years. Or use the scroller to manually select a year. </h4>
+		<h4 style="text-align: left; margin-left: 15%; margin-right: 15%; position: relative; top:25px; color:#999999"> Click the Play button below to automatically iterate over the years. Or use the scroller to manually select a year. </h4>
 	</div>
 	
 	<div class="center">
@@ -231,7 +245,7 @@ html {
 	</div>
 	
 	<div style="position:relative; top:25px">
-		<h4 style="text-align: center; "> Select the continents to be displayed on the Beeswarm chart using the check box. <br> Click a country on the map to track. You can reset the country using the Reset button below. <br> Hover over countries on map or beeswarm chart for detailed obesity percentages. Radius of circles in the beeswarm chart reflect population size. </h4>
+		<h4 style="text-align: left; margin-left: 15%; margin-right: 15%; color:#999999"> Select the continents to be displayed on the Beeswarm chart using the check box. <br> Click a country on the map to track. You can reset the country using the Reset button below. <br> Hover over countries on map or beeswarm chart for detailed obesity percentages. Radius of circles in the beeswarm chart reflect population size. </h4>
 	</div>
 
 	<div class="center">
@@ -243,7 +257,7 @@ html {
 	</div>
 
 	<div>
-		<h4 style="text-align: center; position: relative; top: 25px"> You can adjust the spatial density of the beeswarm chart using the slider below. <br> Lower spatial density value helps you study the continent-level trends, and higher spatial density value helps you observe the world-wide-level trends. </h4>
+		<h4 style="text-align: left; margin-left: 15%; margin-right: 15%; position: relative; top: 25px; color: #999999"> You can adjust the spatial density of the beeswarm chart using the slider below. <br> Lower spatial density value helps you study the continent-level trends, and higher spatial density value helps you observe the world-wide-level trends. </h4>
 	</div>
 
 	<div class="center">
@@ -278,10 +292,14 @@ html {
 <section id="barrace" class="call-top-action">
 	<div><h1 style="text-align: center; color: #f7a440"> Number of Deaths by Obesity and Top Risk Factors </h1></div>
 	<br>
-	<div><h3 style="text-align: center; "> Description Here </h3></div>
-	<div><h4 style="text-align: center; "> here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf  here df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf </h4></div>
+	<div><h4 style="text-align: left; margin-left: 15%; margin-right: 15%;"> Obesity is one of the world’s biggest health problems as it is becoming a major risk factor for premature death. Total of 8% of global deaths were due to obesity in 2017 which is double the amount of deaths caused by obesity in 1990. 
+	<br><br>
+	In this race bar graph, we show the top 12 leading factors of death by year across all countries and hope to highlight the increasing rank of obesity over time. 
+	</h4></div>
 
-	<div style="position:relative; text-align: center;">
+	<br>
+
+	<div style="text-align: left; margin-left: 15%; margin-right: 15%; color: #999999">
 		<h4> Use the Replay button below to restart the chart animation. </h4>
 	</div>
 
@@ -290,7 +308,7 @@ html {
 	</div>
 	<br>
 
-	<div><h3 style="text-align: center; "> !Chart Title Here! </h3></div>
+	<div><h3 style="text-align: center; "> Death Counts of Top Risk Factors </h3></div>
 
 	<div style="position: relative; top: 60px" class="barrace">
 		<div style="width: 100%; display: table;">
@@ -320,10 +338,15 @@ html {
 <section id="deathmap" class="call-top-action">
 	<div><h1 style="text-align: center; color: #f7a440"> Share of Death by Obesity on the Rise </h1></div>
 	<br>
-	<div><h3 style="text-align: center; "> Description Here </h3></div>
+	<div><h4 style="text-align: left; margin-left: 15%; margin-right: 15%;"> Okay, you might think that the increasing number of deaths by obesity might be due to the general increase in world population. Here, we show that not only the count, but also the share of death due to obesity has been increasing globally as well. 
+	<br><br>
+	Share of death due to obesity is increasing in all continents, but we can see that around 15% of death is due to obesity in middle-income countries such as those in Central Asia or Eastern Europe, whereas the rate is around 10% for high-income countries such as Australia or Canada.
+ 	</h4></div>
+
+ 	<br>
 
 	<div>
-		<h4 style="text-align: center; "> Use the Play button or the scroller below to iterate over the years. </h4>
+		<h4 style="text-align: left; margin-left: 15%; margin-right: 15%; color: #999999"> Use the Play button or the scroller below to iterate over the years. </h4>
 	</div>
 
 	<div class="center">
@@ -331,7 +354,7 @@ html {
 	</div>
 
 	<div>
-		<h4 style="text-align: center; "> Select the area to zoom to using the check box below. <br> Click a country of interest on the map, and reset using the Reset button. </h4>
+		<h4 style="text-align: left; margin-left: 15%; margin-right: 15%; color: #999999"> Select the area to zoom to using the check box below. <br> Click a country of interest on the map, and reset using the Reset button. </h4>
 	</div>
 
 	<div class="center">
@@ -373,8 +396,8 @@ html {
 		<div class="row">
 			<div class="col-md-12">
 				<h1 style="color: #f7a440">TODO: Talk about Calories</h1>
-					<p> Cal cal cal </p>
-					<p style="text-align: left;">text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t </p>
+					<br>
+					<h4 style="text-align: left;">text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t text adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf ttext adfadfa fef texsdf sd ers df sadf asdf asdf df fdf t </h4>
 					<p> <br> </p>
 			</div><!-- End col-md-12 -->
 		</div><!-- End row -->
@@ -382,16 +405,16 @@ html {
 	<div class="row">
 			<div class="col-md-6 col-sm-6">
 				<div class="feature-box">
-					<h2>Calorie</h2>
-					<span><i style="font-size: 150px; color: #f7a440"class="fas fa-hamburger"></i></span>
-					<p style="text-align: left;"><br>A calorie is defined as the amount of energy needed to raise the temperature of one gram of water by one degree Celsius. Calories on the Nutrition Facts show the amount of (kilo)calories the specific item contains.</p>
+					<h3 style="color: #f7a440">Calorie</h3>
+					<span><i style="font-size: 100px; color: #f7a440"class="fas fa-hamburger"></i></span>
+					<h4 style="text-align: left;"><br>A calorie is defined as the amount of energy needed to raise the temperature of one gram of water by one degree Celsius. Calories on the Nutrition Facts show the amount of (kilo)calories the specific item contains.</h4>
 				</div>
 			</div><!-- End col-md-6 -->
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="feature-box">
-					<h2>Empty Calories</h2>
-					<span><i style="font-size: 150px; color: #f7a440" class="fas fa-candy-cane"></i></span>
-					<p style="text-align: left;"><br> Foods with empty calories are primarily composed of sugar, fats, oils, or alcohols. Although they do provide food energy, they have little to no nutrition values. </p>
+					<h3 style="color: #f7a440">Empty Calories</h3>
+					<span><i style="font-size: 100px; color: #f7a440" class="fas fa-candy-cane"></i></span>
+					<h4 style="text-align: left;"><br> Foods with empty calories are primarily composed of sugar, fats, oils, or alcohols. Although they do provide food energy, they have little to no nutrition values. </h4>
 				</div>
 			</div>
 
@@ -489,7 +512,7 @@ html {
 	</div>
 
 
-	<div style="position: absolute; left: 150px; margin-top: 60px;" id="observablehq-legend-3b472422"></div>
+	<div style="position: absolute; left: 150px; margin-top: 65px;" id="observablehq-legend-3b472422"></div>
 
 
 
