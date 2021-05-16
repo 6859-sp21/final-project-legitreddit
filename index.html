@@ -286,7 +286,7 @@ html {
 	</div>
 
 	<div class="center">
-		<div id="observablehq-viewof-replay-1d30900c"></div>
+		<div id="observablehq-viewof-replay-3bb19943"></div>
 	</div>
 	<br>
 
@@ -296,7 +296,7 @@ html {
 		<div style="width: 100%; display: table;">
 			<div style="display: table-row;">
 		        <div style="width: 50%; display: table-cell; ">
-		            <div style="position: relative; top: -40px" id="observablehq-chart-1d30900c"></div>
+		            <div style="position: relative; top: -40px" id="observablehq-chart-3bb19943"></div>
 		        </div>
 			</div>
 		</div>
@@ -474,10 +474,12 @@ html {
 
 <!-- Calories Trend -->
 <section id="calorieschart" class="call-top-action">
-	<div><h1 style="text-align: center; color: #f7a440"> Side-by-Side View of Obeisty and Caloric Supply  </h1></div>
+	<div><h1 style="text-align: center; color: #f7a440"> Side-by-Side View of Obesity and Caloric Supply  </h1></div>
 	<br>
 
 	<h4 style="text-align: left; margin-left: 15%; margin-right: 15%;"> The multi-line charts below provide the change in obesity and daily caloric supply at a country level; we can better observe the yearly trends of a specific country of interest. Use the charts below to discover which countries had an increase in both obesity and daily caloric supply, and which had an increase in obesity but decrease in caloric supply. We suggest looking up the United States and Venezuela as examples to start with. </h4>
+
+	<h4 style="text-align: left; margin-left: 15%; margin-right: 15%;"> Why do you think some countries had an increase in obesity rate, but not in daily caloric intake? We argue that nutrient composition of the calories should be investigated here. While it is a good standard, lower caloric intake doesn’t guarantee fitness. </h4>
 
 	<br>
 	
@@ -582,8 +584,8 @@ new Runtime().module(define, name => {
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@hyeyounge/race-bar-and-line-chart.js?v=3";
 new Runtime().module(define, name => {
-  if (name === "viewof replay") return new Inspector(document.querySelector("#observablehq-viewof-replay-1d30900c"));
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-1d30900c"));
+  if (name === "viewof replay") return new Inspector(document.querySelector("#observablehq-viewof-replay-3bb19943"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-3bb19943"));
 });
 </script>
 
