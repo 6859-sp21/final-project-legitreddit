@@ -1,0 +1,14 @@
+{
+  "name": "@yowhan/final-project-beeswarm-and-map",
+  "main": "ff11f57f3a399a71@737.js",
+  "version": "737.0.0",
+  "homepage": "https://observablehq.com/@yowhan/final-project-beeswarm-and-map",
+  "author": {
+    "name": "John Kim",
+    "url": "https://observablehq.com/@yowhan"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

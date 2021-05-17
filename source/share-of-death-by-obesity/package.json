@@ -1,0 +1,14 @@
+{
+  "name": "@yowhan/final-project-share-of-death-by-obesity",
+  "main": "c4c6e30db428643a@451.js",
+  "version": "451.0.0",
+  "homepage": "https://observablehq.com/@yowhan/final-project-share-of-death-by-obesity",
+  "author": {
+    "name": "John Kim",
+    "url": "https://observablehq.com/@yowhan"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
