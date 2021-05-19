@@ -427,7 +427,7 @@ html {
 	</div>
 
 	<div class="center">
-		<div id="observablehq-viewof-yearAnimate-f948bf10"></div>
+		<div id="observablehq-viewof-yearAnimate-69b7b360"></div>
 	</div>
 
 	<div>
@@ -436,20 +436,20 @@ html {
 	</div>
 
 	<div class="center">
-		<div id="observablehq-viewof-selected_continents-f948bf10"></div>
+		<div id="observablehq-viewof-selected_continents_2-69b7b360"></div>
 	</div>
 	<div class="center" style="">
-		<div id="observablehq-viewof-selected_country-f948bf10"></div>
+		<div id="observablehq-viewof-selected_country_2-69b7b360"></div>
 	</div>
 
 	<div class="center" style="">
-		<div style="position: relative; top: 90px; right: 300px" id="observablehq-legend-f948bf10"></div>
+		<div style="position: relative; top: 90px; right: 300px" id="observablehq-legend-69b7b360"></div>
 	</div>
 
 	<!-- <div style="position: relative; margin-left: 20%" id="observablehq-legend-f948bf10"></div> -->
 
 	<div class="gapminderstyle">
-		<div style="position: relative;" id="observablehq-chartAnimate-f948bf10"></div>
+		<div style="position: relative;" id="observablehq-chartAnimate-69b7b360"></div>
 	</div>
 
 
@@ -460,6 +460,7 @@ html {
 	<div class="center">
 		<a style="position: relative; top: 100px" href="#calorieschart" class="button_black">Continue</a>
 	</div>
+
 
 	<br>
 	<br>
@@ -494,25 +495,25 @@ html {
 	</h4>
 
 	<div class="center">
-		<div id="observablehq-viewof-selected_continents-3b472422"></div>
+		<div id="observablehq-viewof-selected_continents-ff5a952b"></div>
 	</div>
 
 	<div class="center">
-		<div id="observablehq-viewof-selected_country-3b472422"></div>
+		<div id="observablehq-viewof-selected_country-ff5a952b"></div>
 	</div>
 
 
-	<div style="position: absolute; left: 150px; margin-top: 65px;" id="observablehq-legend-3b472422"></div>
+	<div style="position: absolute; left: 150px; margin-top: 65px;" id="observablehq-legend-ff5a952b"></div>
 
 
 
 	<div style="position: relative; top: 70px; width: 100%; display: table; border-spacing: 15px;">
 		<div style="display: table-row;">
 	        <div style="width: 50%; display: table-cell; ">
-	            <div id="observablehq-chart-3b472422"></div>
+	            <div id="observablehq-chart-ff5a952b"></div>
 	        </div>
 	        <div style="display: table-cell; "> 
-	            <div id="observablehq-chart2-3b472422"></div>
+	            <div id="observablehq-chart2-ff5a952b"></div>
 	        </div>
 		</div>
 	</div>
@@ -655,12 +656,12 @@ new Runtime().module(define, name => {
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@yowhan/final-project-obese-vs-calories.js?v=3";
 new Runtime().module(define, name => {
-  if (name === "legend") return new Inspector(document.querySelector("#observablehq-legend-f948bf10"));
-  if (name === "viewof selected_continents") return new Inspector(document.querySelector("#observablehq-viewof-selected_continents-f948bf10"));
-  if (name === "viewof selected_country") return new Inspector(document.querySelector("#observablehq-viewof-selected_country-f948bf10"));
-  if (name === "viewof yearAnimate") return new Inspector(document.querySelector("#observablehq-viewof-yearAnimate-f948bf10"));
-  if (name === "chartAnimate") return new Inspector(document.querySelector("#observablehq-chartAnimate-f948bf10"));
-  return ["dataInitial","selected_country","setting"].includes(name);
+  if (name === "legend") return new Inspector(document.querySelector("#observablehq-legend-69b7b360"));
+  if (name === "viewof selected_continents_2") return new Inspector(document.querySelector("#observablehq-viewof-selected_continents_2-69b7b360"));
+  if (name === "viewof selected_country_2") return new Inspector(document.querySelector("#observablehq-viewof-selected_country_2-69b7b360"));
+  if (name === "viewof yearAnimate") return new Inspector(document.querySelector("#observablehq-viewof-yearAnimate-69b7b360"));
+  if (name === "chartAnimate") return new Inspector(document.querySelector("#observablehq-chartAnimate-69b7b360"));
+  return ["dataInitial","selected_country_2","setting"].includes(name);
 });
 </script>
 
@@ -668,16 +669,15 @@ new Runtime().module(define, name => {
 
 <!-- Import Calories  -->
 
-
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@yowhan/final-project-multi-line-charts.js?v=3";
 new Runtime().module(define, name => {
-  if (name === "viewof selected_continents") return new Inspector(document.querySelector("#observablehq-viewof-selected_continents-3b472422"));
-  if (name === "legend") return new Inspector(document.querySelector("#observablehq-legend-3b472422"));
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-3b472422"));
-  if (name === "chart2") return new Inspector(document.querySelector("#observablehq-chart2-3b472422"));
-  if (name === "viewof selected_country") return new Inspector(document.querySelector("#observablehq-viewof-selected_country-3b472422"));
+  if (name === "viewof selected_continents") return new Inspector(document.querySelector("#observablehq-viewof-selected_continents-ff5a952b"));
+  if (name === "legend") return new Inspector(document.querySelector("#observablehq-legend-ff5a952b"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ff5a952b"));
+  if (name === "chart2") return new Inspector(document.querySelector("#observablehq-chart2-ff5a952b"));
+  if (name === "viewof selected_country") return new Inspector(document.querySelector("#observablehq-viewof-selected_country-ff5a952b"));
   return ["data","selected_country","hover","y","yAxis","color","select_script","selected_to_data","line","colorLegend"].includes(name);
 });
 </script>
