@@ -1,0 +1,14 @@
+{
+  "name": "@yowhan/final-project-multi-line-charts",
+  "main": "5b3ae0762734d527@516.js",
+  "version": "516.0.0",
+  "homepage": "https://observablehq.com/@yowhan/final-project-multi-line-charts",
+  "author": {
+    "name": "John Kim",
+    "url": "https://observablehq.com/@yowhan"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

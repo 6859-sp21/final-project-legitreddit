@@ -1,0 +1,112 @@
+<html>
+  <head>
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v6.js"></script>
+    <style> /* set the CSS */
+      div.tooltip {
+        position: absolute;
+        text-align: center;
+        width: auto;
+        height: auto;
+        padding: 2px;
+        font: 16px sans-serif;
+        /*background: lightsteelblue; */
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+      }
+
+      #observablehq-map-e3cf1f5d{
+      	/*position: relative;*/
+		width: 100%;
+		height: 100%;
+      }
+
+      #observablehq-chart-250b2826{
+		position: relative;
+		/*width: 40%;*/
+      }
+
+      #observablehq-script-250b2826{
+      	opacity: 0;
+      }
+
+    </style>
+  </head>
+
+  <body>
+    <h1>6.859: Final Project Draft: Exploring Obesity</h1>
+
+<h2>Obesity Trend by Country and Continent</h2>
+
+<div id="observablehq-viewof-target_year-250b2826"></div>
+<h4>Select a country on the map if you want to focus on a single country. Press the reset button to undo.</h4>
+<div id="observablehq-viewof-toggle-250b2826"></div>
+
+<div style="width: 100%; display: table;">
+    <div style="display: table-row; height: 100px;">
+        <div style="width: 50%; display: table-cell; ">
+            <div id="observablehq-map-250b2826"></div>
+        </div>
+        <div style="display: table-cell; "> 
+            <div id="observablehq-chart-250b2826"></div>
+        </div>
+    </div>
+</div>
+
+<div id="observablehq-locality-250b2826"></div>
+<div id="observablehq-viewof-selected_regions-250b2826"></div>
+
+
+
+
+<h2>Number of Deaths by Risk Factor</h2>
+
+<div id="observablehq-viewof-replay-219e4ff0"></div>
+<div id="observablehq-chart-219e4ff0"></div>
+
+<div style="opacity:0; height:10px">
+  <div id="observablehq-script-250b2826"></div>
+  <div id="observablehq-offsets-250b2826"></div>
+  <div id="observablehq-offset1-250b2826"></div>
+  <div id="observablehq-offset2-250b2826"></div>
+  <div id="observablehq-offset3-250b2826"></div>
+  <div id="observablehq-offset4-250b2826"></div>
+</div>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@yowhan/final-project-draft.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "viewof target_year") return new Inspector(document.querySelector("#observablehq-viewof-target_year-250b2826"));
+  if (name === "viewof toggle") return new Inspector(document.querySelector("#observablehq-viewof-toggle-250b2826"));
+  if (name === "map") return new Inspector(document.querySelector("#observablehq-map-250b2826"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-250b2826"));
+  if (name === "locality") return new Inspector(document.querySelector("#observablehq-locality-250b2826"));
+  if (name === "viewof selected_regions") return new Inspector(document.querySelector("#observablehq-viewof-selected_regions-250b2826"));
+  if (name === "script") return new Inspector(document.querySelector("#observablehq-script-250b2826"));
+  if (name === "offsets") return new Inspector(document.querySelector("#observablehq-offsets-250b2826"));
+  if (name === "offset1") return new Inspector(document.querySelector("#observablehq-offset1-250b2826"));
+  if (name === "offset2") return new Inspector(document.querySelector("#observablehq-offset2-250b2826"));
+  if (name === "offset3") return new Inspector(document.querySelector("#observablehq-offset3-250b2826"));
+  if (name === "offset4") return new Inspector(document.querySelector("#observablehq-offset4-250b2826"));
+  return ["data","map_data","xCoords","xScale"].includes(name);
+});
+</script>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@hyeyounge/race-bar.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "viewof replay") return new Inspector(document.querySelector("#observablehq-viewof-replay-219e4ff0"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-219e4ff0"));
+});
+</script>
+
+
+
+  </body>
+
+  <!-- This adapted from Arvind's observable from lecture. https://observablehq.com/d/4c93c3a516d35624 -->
+  <!-- Great D3 intro resource: https://observablehq.com/@d3/learn-d3?collection=@d3/learn-d3 -->
+</html>

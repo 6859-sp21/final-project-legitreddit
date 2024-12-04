@@ -1,0 +1,14 @@
+{
+  "name": "@hyeyounge/race-bar-and-line-chart",
+  "main": "2b2a6beb26cee8d2@491.js",
+  "version": "491.0.0",
+  "homepage": "https://observablehq.com/@hyeyounge/race-bar-and-line-chart",
+  "author": {
+    "name": "hyeyounge",
+    "url": "https://observablehq.com/@hyeyounge"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

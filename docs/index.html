@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+html {
+  scroll-behavior: smooth;
+}
+
+.gapminderstyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  /*border: 1px solid black;*/
+  margin-left: 24%;
+  margin-right: 24%;
+}
+
+.deathmap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  /*border: 1px solid black;*/
+  margin-left: 24%;
+  margin-right: 24%;
+}
+
+.barrace {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  /*border: 1px solid black;*/
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100;
+  /*border: 1px solid black;*/
+}
+
+.button {
+  background-color: Transparent; 
+  /*border: 2px solid white;*/
+  border: 2px solid #f7a440;
+  /*color: white;*/
+  color: #f7a440;
+  padding: 10px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: grey;
+  color: #f7a440;
+}
+
+.button_black {
+  background-color: Transparent; 
+  border: 2px solid #f7a440;
+  color: #f7a440;
+  padding: 10px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button_black:hover {
+  background-color: grey;
+  color: #f7a440;
+}
+
+#homeFullScreen {
+    background-image: url('../images/header.png');
+    overflow: hidden;
+    /*filter: grayscale(30%);*/
+}
+
+/*
+.button1 {
+  background-color: Transparent; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}*/
+
+/*.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}*/
+
+</style>
+
+
+	<title>Supersize World Project Page</title>
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+
+	<!-- Goggle Font -->
+	<link href='https://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
+
+	<!-- Font Css -->
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<!-- Animation Css -->
+	<link rel="stylesheet" href="css/animate.css">
+
+	<script src="https://kit.fontawesome.com/7b0164c7c9.js" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<header>
+	<div id="homeFullScreen">
+		<div class="header-text">
+			<h1 style="font-size:120px;">Supersize World</h1>
+			<div class="vertical-line"></div>
+			<p>Team Members: Yo-whan Kim, Hyeyoung Shin</p>
+			<p>Visualization: <a style="color: #f7a440" href="viz.html"> Click here </a> </p>
+			<p>Video: <a style="color: #f7a440" href="https://www.youtube.com/watch?v=4HMVkepZVhE&ab_channel=JohnKim"> Click here </a> </p>
+			<p>Paper: <a style="color: #f7a440" href="https://github.com/6859-sp21/final-project-SupersizeWorld/blob/main/final/FinalPaper.pdf"> Click here </a> </p>
+			
+
+			<a href="#Intro" class="button button1"> <i style="font-size: 30px" class="fas fa-arrow-down"></i> </a>
+
+		</div><!-- End HeaderText -->
+	</div><!-- End homeFullScreen -->
+</header><!-- End Header -->
+
+
+<!-- Introduction -->
+
+
+
+<section id="Intro" class="call-top-action text-center">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+					<h2> Introduction </h2>
+					<h3 style="text-align: left;">Obesity used to be a problem only in the high-income countries, but it has recently become an emerging problem in the low-income countries as well. In this project, we first highlight an ongoing problem of obesity around the world by presenting the growing trends of obesity rate using multiple interactive and animated charts. Obesity should not be ignored as something trivial because obesity is becoming one of the leading risk factors for early death and is responsible for 4.7 million deaths in 2017 alone. 
+					<br>
+					<br>
+					In the second part of the project, we look at the correlation between obesity and daily caloric intake. Excess energy sources is one of few reasons for an increase in obesity, which can happen either from excess energy intake or lack of energy usage, and calories is the standard unit we use to refer to the energy we get from food or drink sources. We visualize the increase in obesity, along with the trend of growing caloric supplies, suggesting that they have a significant correlation. We hope that this project reminds the users of the critical problem of obesity, and that the users should protect themselves by engaging in physical activities or being aware of and managing nutrient intake. 
+
+					</h3>
+					<p> <br> </p>
+			</div><!-- End col-md-12 -->
+		</div><!-- End row -->
+
+	<div>
+
+	<h2>
+		Summary Images
+	</h2>
+
+	<img style="width: 60%; height: 12vw" src="images/beeswarm.png">
+	<img style="width: 30%; height: 12vw" src="images/barrace.png">
+	<img style="width: 30%; height: 12vw" src="images/gapminder.png">
+	<img style="width: 60%; height: 12vw" src="images/sidebyside.png">	
+
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<a href="#homeFullScreen" class="button button1"> <i style="font-size: 30px" class="fas fa-arrow-up"></i> </a>
+
+	</div>
+</section>
+
+
+
+
+
+<!-- Main JS -->
+<script type="text/javascript" src="js/jquery-main.js"></script>
+
+<!-- Bootstrap JS -->
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+<!-- Animation JS -->
+<script type="text/javascript" src="js/wow.min.js"></script>
+
+<!-- Custom JS -->
+<script type="text/javascript" src="js/custom.js"></script>
+
+
+</body>
+</html>

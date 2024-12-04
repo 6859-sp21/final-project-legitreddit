@@ -1,0 +1,981 @@
+date,name,value,category
+1990-01-01,Unsafe water source,2111659.0773023404,other
+1991-01-01,Unsafe water source,2095066.5054505903,other
+1992-01-01,Unsafe water source,2053362.2856169085,other
+1993-01-01,Unsafe water source,2013224.698674889,other
+1994-01-01,Unsafe water source,1973406.0442463772,other
+1995-01-01,Unsafe water source,1931065.5078423354,other
+1996-01-01,Unsafe water source,1877778.8296313584,other
+1997-01-01,Unsafe water source,1840394.520120693,other
+1998-01-01,Unsafe water source,1808119.0072888276,other
+1999-01-01,Unsafe water source,1766645.4511674645,other
+2000-01-01,Unsafe water source,1727905.4686345689,other
+2001-01-01,Unsafe water source,1682357.015253433,other
+2002-01-01,Unsafe water source,1638128.1670555824,other
+2003-01-01,Unsafe water source,1596385.8480850426,other
+2004-01-01,Unsafe water source,1561987.6441106691,other
+2005-01-01,Unsafe water source,1536826.823589653,other
+2006-01-01,Unsafe water source,1523674.6844775316,other
+2007-01-01,Unsafe water source,1503844.1578735646,other
+2008-01-01,Unsafe water source,1491461.9777125502,other
+2009-01-01,Unsafe water source,1489789.4989740832,other
+2010-01-01,Unsafe water source,1483731.6566152526,other
+2011-01-01,Unsafe water source,1431184.3789504168,other
+2012-01-01,Unsafe water source,1374545.9080154565,other
+2013-01-01,Unsafe water source,1322082.2146652215,other
+2014-01-01,Unsafe water source,1282539.7986760873,other
+2015-01-01,Unsafe water source,1245322.7271740844,other
+2016-01-01,Unsafe water source,1220145.3111829616,other
+2017-01-01,Unsafe water source,1232368.2839747255,other
+1990-01-01,Unsafe sanitation,1638021.1994874524,other
+1991-01-01,Unsafe sanitation,1622958.940411862,other
+1992-01-01,Unsafe sanitation,1588275.164091866,other
+1993-01-01,Unsafe sanitation,1553936.1463847116,other
+1994-01-01,Unsafe sanitation,1519967.0743117556,other
+1995-01-01,Unsafe sanitation,1484244.3046599512,other
+1996-01-01,Unsafe sanitation,1440235.4167386938,other
+1997-01-01,Unsafe sanitation,1409441.5095454927,other
+1998-01-01,Unsafe sanitation,1382608.2953909435,other
+1999-01-01,Unsafe sanitation,1347957.6626502709,other
+2000-01-01,Unsafe sanitation,1315192.2138994492,other
+2001-01-01,Unsafe sanitation,1277426.2916421185,other
+2002-01-01,Unsafe sanitation,1240534.9717865563,other
+2003-01-01,Unsafe sanitation,1205163.982104632,other
+2004-01-01,Unsafe sanitation,1174027.894698817,other
+2005-01-01,Unsafe sanitation,1149262.178305593,other
+2006-01-01,Unsafe sanitation,1132528.956234694,other
+2007-01-01,Unsafe sanitation,1109838.766966501,other
+2008-01-01,Unsafe sanitation,1089920.3048876238,other
+2009-01-01,Unsafe sanitation,1077637.574723893,other
+2010-01-01,Unsafe sanitation,1061903.1571046677,other
+2011-01-01,Unsafe sanitation,1012279.9453258005,other
+2012-01-01,Unsafe sanitation,957813.2057258216,other
+2013-01-01,Unsafe sanitation,902564.8106705832,other
+2014-01-01,Unsafe sanitation,854076.1423118832,other
+2015-01-01,Unsafe sanitation,810246.0167335734,other
+2016-01-01,Unsafe sanitation,779071.6072653666,other
+2017-01-01,Unsafe sanitation,774240.9861497497,other
+1990-01-01,No access to handwashing facility,1239519.4207882015,other
+1991-01-01,No access to handwashing facility,1230318.6258561688,other
+1992-01-01,No access to handwashing facility,1209423.8792031764,other
+1993-01-01,No access to handwashing facility,1188248.1685467095,other
+1994-01-01,No access to handwashing facility,1167209.3466484905,other
+1995-01-01,No access to handwashing facility,1144503.9392137076,other
+1996-01-01,No access to handwashing facility,1116519.7569660873,other
+1997-01-01,No access to handwashing facility,1096678.27216095,other
+1998-01-01,No access to handwashing facility,1077689.3271775502,other
+1999-01-01,No access to handwashing facility,1052547.2580043008,other
+2000-01-01,No access to handwashing facility,1030042.3042048131,other
+2001-01-01,No access to handwashing facility,1003459.7709054892,other
+2002-01-01,No access to handwashing facility,976805.5305320787,other
+2003-01-01,No access to handwashing facility,951759.7838971987,other
+2004-01-01,No access to handwashing facility,930329.4991052651,other
+2005-01-01,No access to handwashing facility,914399.9049229552,other
+2006-01-01,No access to handwashing facility,905364.3651032632,other
+2007-01-01,No access to handwashing facility,891831.9068467618,other
+2008-01-01,No access to handwashing facility,879853.2327308381,other
+2009-01-01,No access to handwashing facility,873667.4550486862,other
+2010-01-01,No access to handwashing facility,865051.6816949084,other
+2011-01-01,No access to handwashing facility,835307.5213605927,other
+2012-01-01,No access to handwashing facility,804331.6105297658,other
+2013-01-01,No access to handwashing facility,773606.8081102506,other
+2014-01-01,No access to handwashing facility,748144.0074053414,other
+2015-01-01,No access to handwashing facility,725483.97053546,other
+2016-01-01,No access to handwashing facility,709112.6848051952,other
+2017-01-01,No access to handwashing facility,707247.7128544673,other
+1990-01-01,Household air pollution from solid fuels,2708904.8197546843,other
+1991-01-01,Household air pollution from solid fuels,2677805.7216388383,other
+1992-01-01,Household air pollution from solid fuels,2648544.3898488577,other
+1993-01-01,Household air pollution from solid fuels,2604092.494404531,other
+1994-01-01,Household air pollution from solid fuels,2563321.5788988555,other
+1995-01-01,Household air pollution from solid fuels,2521547.5063175727,other
+1996-01-01,Household air pollution from solid fuels,2477283.307535869,other
+1997-01-01,Household air pollution from solid fuels,2456653.199002178,other
+1998-01-01,Household air pollution from solid fuels,2419886.89521724,other
+1999-01-01,Household air pollution from solid fuels,2357044.5439544413,other
+2000-01-01,Household air pollution from solid fuels,2314854.155534442,other
+2001-01-01,Household air pollution from solid fuels,2262796.547998089,other
+2002-01-01,Household air pollution from solid fuels,2218646.042976038,other
+2003-01-01,Household air pollution from solid fuels,2172350.5948390374,other
+2004-01-01,Household air pollution from solid fuels,2109307.1723688804,other
+2005-01-01,Household air pollution from solid fuels,2057468.4057573874,other
+2006-01-01,Household air pollution from solid fuels,2002416.1377166002,other
+2007-01-01,Household air pollution from solid fuels,1961085.424296046,other
+2008-01-01,Household air pollution from solid fuels,1927176.0222469128,other
+2009-01-01,Household air pollution from solid fuels,1897357.3430851325,other
+2010-01-01,Household air pollution from solid fuels,1869568.12536247,other
+2011-01-01,Household air pollution from solid fuels,1832880.493507185,other
+2012-01-01,Household air pollution from solid fuels,1824696.2130606363,other
+2013-01-01,Household air pollution from solid fuels,1771869.5126180637,other
+2014-01-01,Household air pollution from solid fuels,1744033.0911323612,other
+2015-01-01,Household air pollution from solid fuels,1705654.025528113,other
+2016-01-01,Household air pollution from solid fuels,1696332.0201536163,other
+2017-01-01,Household air pollution from solid fuels,1640599.7840841732,other
+1990-01-01,Non-exclusive breastfeeding,514102.3515766758,other
+1991-01-01,Non-exclusive breastfeeding,502180.0258927275,other
+1992-01-01,Non-exclusive breastfeeding,481844.5346499864,other
+1993-01-01,Non-exclusive breastfeeding,462904.132982879,other
+1994-01-01,Non-exclusive breastfeeding,445422.5074811107,other
+1995-01-01,Non-exclusive breastfeeding,425889.44854692905,other
+1996-01-01,Non-exclusive breastfeeding,405322.27820124506,other
+1997-01-01,Non-exclusive breastfeeding,386961.3670068473,other
+1998-01-01,Non-exclusive breastfeeding,372047.0743266176,other
+1999-01-01,Non-exclusive breastfeeding,357098.33943891263,other
+2000-01-01,Non-exclusive breastfeeding,343019.1681584275,other
+2001-01-01,Non-exclusive breastfeeding,328012.1892983273,other
+2002-01-01,Non-exclusive breastfeeding,312995.340866048,other
+2003-01-01,Non-exclusive breastfeeding,299066.97711861646,other
+2004-01-01,Non-exclusive breastfeeding,286549.6128382916,other
+2005-01-01,Non-exclusive breastfeeding,274539.5927686734,other
+2006-01-01,Non-exclusive breastfeeding,266156.2990204209,other
+2007-01-01,Non-exclusive breastfeeding,255904.20642031185,other
+2008-01-01,Non-exclusive breastfeeding,247528.8479746488,other
+2009-01-01,Non-exclusive breastfeeding,240509.85148328322,other
+2010-01-01,Non-exclusive breastfeeding,233039.15485941304,other
+2011-01-01,Non-exclusive breastfeeding,222655.13290003108,other
+2012-01-01,Non-exclusive breastfeeding,211430.07574479983,other
+2013-01-01,Non-exclusive breastfeeding,199855.92538139335,other
+2014-01-01,Non-exclusive breastfeeding,188371.92807154226,other
+2015-01-01,Non-exclusive breastfeeding,178114.30027949504,other
+2016-01-01,Non-exclusive breastfeeding,168080.78733203173,other
+2017-01-01,Non-exclusive breastfeeding,160983.3744259297,other
+1990-01-01,Discontinued breastfeeding,34850.39553184372,other
+1991-01-01,Discontinued breastfeeding,33853.61619651305,other
+1992-01-01,Discontinued breastfeeding,32221.547747998116,other
+1993-01-01,Discontinued breastfeeding,30647.966976916367,other
+1994-01-01,Discontinued breastfeeding,29178.11927609882,other
+1995-01-01,Discontinued breastfeeding,27731.320095105166,other
+1996-01-01,Discontinued breastfeeding,26123.42413892437,other
+1997-01-01,Discontinued breastfeeding,24776.91638833358,other
+1998-01-01,Discontinued breastfeeding,23887.01348866646,other
+1999-01-01,Discontinued breastfeeding,23068.359384893585,other
+2000-01-01,Discontinued breastfeeding,22083.23035840358,other
+2001-01-01,Discontinued breastfeeding,20739.485753931112,other
+2002-01-01,Discontinued breastfeeding,19504.7000665582,other
+2003-01-01,Discontinued breastfeeding,18449.955064345948,other
+2004-01-01,Discontinued breastfeeding,17610.220545516248,other
+2005-01-01,Discontinued breastfeeding,16819.405597468016,other
+2006-01-01,Discontinued breastfeeding,16281.518815749372,other
+2007-01-01,Discontinued breastfeeding,15825.765286529311,other
+2008-01-01,Discontinued breastfeeding,15725.662563629476,other
+2009-01-01,Discontinued breastfeeding,15843.252680556485,other
+2010-01-01,Discontinued breastfeeding,15878.10447560211,other
+2011-01-01,Discontinued breastfeeding,14953.007172298903,other
+2012-01-01,Discontinued breastfeeding,14194.9861299827,other
+2013-01-01,Discontinued breastfeeding,13357.845690697804,other
+2014-01-01,Discontinued breastfeeding,12323.168119539523,other
+2015-01-01,Discontinued breastfeeding,11281.739969517295,other
+2016-01-01,Discontinued breastfeeding,10414.229485732789,other
+2017-01-01,Discontinued breastfeeding,10011.809234960669,other
+1990-01-01,Child wasting,3365308.6244692067,other
+1991-01-01,Child wasting,3296648.2525062226,other
+1992-01-01,Child wasting,3203517.655181204,other
+1993-01-01,Child wasting,3115719.4890434337,other
+1994-01-01,Child wasting,3039123.0205293256,other
+1995-01-01,Child wasting,3031073.9466599245,other
+1996-01-01,Child wasting,2924737.715379135,other
+1997-01-01,Child wasting,2823961.948153644,other
+1998-01-01,Child wasting,2727432.7005248647,other
+1999-01-01,Child wasting,2625624.0064076325,other
+2000-01-01,Child wasting,2528264.4007975054,other
+2001-01-01,Child wasting,2415167.6584477085,other
+2002-01-01,Child wasting,2304567.1141578616,other
+2003-01-01,Child wasting,2118224.642473535,other
+2004-01-01,Child wasting,2020585.3476009585,other
+2005-01-01,Child wasting,1929828.2359697116,other
+2006-01-01,Child wasting,1850101.089140937,other
+2007-01-01,Child wasting,1769622.4014979787,other
+2008-01-01,Child wasting,1698621.0247719076,other
+2009-01-01,Child wasting,1640429.9227091137,other
+2010-01-01,Child wasting,1594289.5944986825,other
+2011-01-01,Child wasting,1512021.884804555,other
+2012-01-01,Child wasting,1424618.7708088462,other
+2013-01-01,Child wasting,1342889.80467252,other
+2014-01-01,Child wasting,1261561.8659976223,other
+2015-01-01,Child wasting,1193359.0882053485,other
+2016-01-01,Child wasting,1127761.5786298008,other
+2017-01-01,Child wasting,1077101.9614005904,other
+1990-01-01,Child stunting,1001277.4494907628,other
+1991-01-01,Child stunting,975802.7090732426,other
+1992-01-01,Child stunting,946360.04469855,other
+1993-01-01,Child stunting,918946.6390913872,other
+1994-01-01,Child stunting,894085.2535512827,other
+1995-01-01,Child stunting,867648.5003787135,other
+1996-01-01,Child stunting,838444.5200078756,other
+1997-01-01,Child stunting,808508.6873033745,other
+1998-01-01,Child stunting,779021.0351737451,other
+1999-01-01,Child stunting,746562.0360024315,other
+2000-01-01,Child stunting,713553.2892921253,other
+2001-01-01,Child stunting,676204.3306599319,other
+2002-01-01,Child stunting,638475.9956819654,other
+2003-01-01,Child stunting,599482.4312500767,other
+2004-01-01,Child stunting,563236.8118164489,other
+2005-01-01,Child stunting,529128.9552990246,other
+2006-01-01,Child stunting,492990.4947689254,other
+2007-01-01,Child stunting,458315.8072265676,other
+2008-01-01,Child stunting,429140.2898368991,other
+2009-01-01,Child stunting,404687.51406098256,other
+2010-01-01,Child stunting,384288.2485502197,other
+2011-01-01,Child stunting,360145.54175450344,other
+2012-01-01,Child stunting,335444.02461684856,other
+2013-01-01,Child stunting,308770.1760096207,other
+2014-01-01,Child stunting,281796.0020944328,other
+2015-01-01,Child stunting,259074.5413480677,other
+2016-01-01,Child stunting,238094.928916832,other
+2017-01-01,Child stunting,220677.98052319733,other
+1990-01-01,Low birth weight for gestation,1976612.53799554,other
+1991-01-01,Low birth weight for gestation,1960013.0689307887,other
+1992-01-01,Low birth weight for gestation,1941448.9182963925,other
+1993-01-01,Low birth weight for gestation,1916294.8907847737,other
+1994-01-01,Low birth weight for gestation,1881590.1069005989,other
+1995-01-01,Low birth weight for gestation,1852109.6177375785,other
+1996-01-01,Low birth weight for gestation,1816486.8091648356,other
+1997-01-01,Low birth weight for gestation,1796149.0957925357,other
+1998-01-01,Low birth weight for gestation,1775232.1147842938,other
+1999-01-01,Low birth weight for gestation,1744953.7263101498,other
+2000-01-01,Low birth weight for gestation,1713464.7773912053,other
+2001-01-01,Low birth weight for gestation,1677551.591484521,other
+2002-01-01,Low birth weight for gestation,1642907.9825113413,other
+2003-01-01,Low birth weight for gestation,1614537.796954789,other
+2004-01-01,Low birth weight for gestation,1579137.4270263903,other
+2005-01-01,Low birth weight for gestation,1544999.6941471375,other
+2006-01-01,Low birth weight for gestation,1510726.5899462178,other
+2007-01-01,Low birth weight for gestation,1476116.0314655127,other
+2008-01-01,Low birth weight for gestation,1444251.7834670232,other
+2009-01-01,Low birth weight for gestation,1413576.3160130987,other
+2010-01-01,Low birth weight for gestation,1382911.1870357457,other
+2011-01-01,Low birth weight for gestation,1350547.8285070506,other
+2012-01-01,Low birth weight for gestation,1316726.7100270977,other
+2013-01-01,Low birth weight for gestation,1275473.958762173,other
+2014-01-01,Low birth weight for gestation,1233224.1142242884,other
+2015-01-01,Low birth weight for gestation,1190642.4250085915,other
+2016-01-01,Low birth weight for gestation,1141966.3002527065,other
+2017-01-01,Low birth weight for gestation,1096977.2046890105,other
+1990-01-01,Secondhand smoke,1247230.8793031478,other
+1991-01-01,Secondhand smoke,1251918.228805791,other
+1992-01-01,Secondhand smoke,1255581.1598038557,other
+1993-01-01,Secondhand smoke,1260815.711884983,other
+1994-01-01,Secondhand smoke,1260994.206017524,other
+1995-01-01,Secondhand smoke,1253577.0318003935,other
+1996-01-01,Secondhand smoke,1241763.5271040343,other
+1997-01-01,Secondhand smoke,1232722.0300898252,other
+1998-01-01,Secondhand smoke,1218980.196968262,other
+1999-01-01,Secondhand smoke,1204890.4816477164,other
+2000-01-01,Secondhand smoke,1195523.5408499471,other
+2001-01-01,Secondhand smoke,1183889.971219774,other
+2002-01-01,Secondhand smoke,1178246.29146657,other
+2003-01-01,Secondhand smoke,1171247.8341200652,other
+2004-01-01,Secondhand smoke,1152014.4412825734,other
+2005-01-01,Secondhand smoke,1141569.5167674175,other
+2006-01-01,Secondhand smoke,1117579.4206013677,other
+2007-01-01,Secondhand smoke,1107576.3614629244,other
+2008-01-01,Secondhand smoke,1110817.943360682,other
+2009-01-01,Secondhand smoke,1115495.9072256023,other
+2010-01-01,Secondhand smoke,1126799.6564379807,other
+2011-01-01,Secondhand smoke,1134562.1132411505,other
+2012-01-01,Secondhand smoke,1141945.3097836014,other
+2013-01-01,Secondhand smoke,1144785.278525353,other
+2014-01-01,Secondhand smoke,1164110.805614727,other
+2015-01-01,Secondhand smoke,1191774.3544728763,other
+2016-01-01,Secondhand smoke,1209977.1881381788,other
+2017-01-01,Secondhand smoke,1220044.1616543012,other
+1990-01-01,Alcohol use,1800478.307735957,other
+1991-01-01,Alcohol use,1864042.5383445946,other
+1992-01-01,Alcohol use,1939783.3040564118,other
+1993-01-01,Alcohol use,2025045.6033166358,other
+1994-01-01,Alcohol use,2097212.994354764,other
+1995-01-01,Alcohol use,2144887.032677811,other
+1996-01-01,Alcohol use,2168153.975600376,other
+1997-01-01,Alcohol use,2199073.321718829,other
+1998-01-01,Alcohol use,2236838.889838086,other
+1999-01-01,Alcohol use,2292873.112661306,other
+2000-01-01,Alcohol use,2349425.5594000043,other
+2001-01-01,Alcohol use,2385905.323830299,other
+2002-01-01,Alcohol use,2443612.780800823,other
+2003-01-01,Alcohol use,2494699.765802969,other
+2004-01-01,Alcohol use,2518388.9039558023,other
+2005-01-01,Alcohol use,2562559.798516656,other
+2006-01-01,Alcohol use,2544467.64566111,other
+2007-01-01,Alcohol use,2562325.476347104,other
+2008-01-01,Alcohol use,2621392.28705631,other
+2009-01-01,Alcohol use,2628366.7503809854,other
+2010-01-01,Alcohol use,2677117.844775097,other
+2011-01-01,Alcohol use,2652024.8661935427,other
+2012-01-01,Alcohol use,2667932.2555003474,other
+2013-01-01,Alcohol use,2673153.3932451527,other
+2014-01-01,Alcohol use,2706466.692036204,other
+2015-01-01,Alcohol use,2773307.3290040405,other
+2016-01-01,Alcohol use,2817609.6392630194,other
+2017-01-01,Alcohol use,2842854.1959898933,other
+1990-01-01,Drug use,250864.67587361863,other
+1991-01-01,Drug use,267682.9468502783,other
+1992-01-01,Drug use,287034.81375577534,other
+1993-01-01,Drug use,306575.95077343425,other
+1994-01-01,Drug use,325420.82379103696,other
+1995-01-01,Drug use,342556.7161564058,other
+1996-01-01,Drug use,353115.8403696047,other
+1997-01-01,Drug use,361142.9969347068,other
+1998-01-01,Drug use,372086.70412636735,other
+1999-01-01,Drug use,386344.76897950185,other
+2000-01-01,Drug use,399074.8586485993,other
+2001-01-01,Drug use,405362.87736846344,other
+2002-01-01,Drug use,414358.03919498174,other
+2003-01-01,Drug use,423709.23338306596,other
+2004-01-01,Drug use,433106.5906484677,other
+2005-01-01,Drug use,447740.2850228126,other
+2006-01-01,Drug use,452485.8340750143,other
+2007-01-01,Drug use,458612.3074098153,other
+2008-01-01,Drug use,467883.40279738116,other
+2009-01-01,Drug use,474179.75749844156,other
+2010-01-01,Drug use,481085.0060389674,other
+2011-01-01,Drug use,488733.8297518687,other
+2012-01-01,Drug use,496855.4929053303,other
+2013-01-01,Drug use,508271.64353180776,other
+2014-01-01,Drug use,526924.9121508303,other
+2015-01-01,Drug use,549156.8439109474,other
+2016-01-01,Drug use,572922.9669870693,other
+2017-01-01,Drug use,585348.1801942628,other
+1990-01-01,Diet low in fruits,1911940.6318497062,other
+1991-01-01,Diet low in fruits,1938226.4916917963,other
+1992-01-01,Diet low in fruits,1977387.3212547584,other
+1993-01-01,Diet low in fruits,2037634.4489207044,other
+1994-01-01,Diet low in fruits,2081888.2933829043,other
+1995-01-01,Diet low in fruits,2099364.9198509613,other
+1996-01-01,Diet low in fruits,2104880.575776143,other
+1997-01-01,Diet low in fruits,2118314.291612115,other
+1998-01-01,Diet low in fruits,2129233.9628655347,other
+1999-01-01,Diet low in fruits,2164057.652666036,other
+2000-01-01,Diet low in fruits,2196322.753847456,other
+2001-01-01,Diet low in fruits,2213864.466111653,other
+2002-01-01,Diet low in fruits,2246956.3904311885,other
+2003-01-01,Diet low in fruits,2271494.3932939293,other
+2004-01-01,Diet low in fruits,2264922.642770764,other
+2005-01-01,Diet low in fruits,2271774.20526184,other
+2006-01-01,Diet low in fruits,2232136.3745970973,other
+2007-01-01,Diet low in fruits,2224065.517813325,other
+2008-01-01,Diet low in fruits,2242840.1082875603,other
+2009-01-01,Diet low in fruits,2257993.0625759936,other
+2010-01-01,Diet low in fruits,2281890.694231173,other
+2011-01-01,Diet low in fruits,2288630.1619190914,other
+2012-01-01,Diet low in fruits,2302320.209008281,other
+2013-01-01,Diet low in fruits,2302599.0599388727,other
+2014-01-01,Diet low in fruits,2336607.2840473615,other
+2015-01-01,Diet low in fruits,2388571.40858522,other
+2016-01-01,Diet low in fruits,2420710.1872432576,other
+2017-01-01,Diet low in fruits,2423447.3680161485,other
+1990-01-01,Diet low in vegetables,1287803.4770359353,other
+1991-01-01,Diet low in vegetables,1300099.1899695208,other
+1992-01-01,Diet low in vegetables,1321951.0361706058,other
+1993-01-01,Diet low in vegetables,1357003.53514515,other
+1994-01-01,Diet low in vegetables,1377999.281619484,other
+1995-01-01,Diet low in vegetables,1383603.5613433695,other
+1996-01-01,Diet low in vegetables,1381912.6978526541,other
+1997-01-01,Diet low in vegetables,1384802.943899034,other
+1998-01-01,Diet low in vegetables,1384808.08346288,other
+1999-01-01,Diet low in vegetables,1397941.5167815094,other
+2000-01-01,Diet low in vegetables,1409938.2718442662,other
+2001-01-01,Diet low in vegetables,1412483.9521087494,other
+2002-01-01,Diet low in vegetables,1425944.727865054,other
+2003-01-01,Diet low in vegetables,1433755.0176764638,other
+2004-01-01,Diet low in vegetables,1417363.3363158263,other
+2005-01-01,Diet low in vegetables,1418079.1283765675,other
+2006-01-01,Diet low in vegetables,1395176.563237745,other
+2007-01-01,Diet low in vegetables,1388276.2897022916,other
+2008-01-01,Diet low in vegetables,1397585.1398555932,other
+2009-01-01,Diet low in vegetables,1402937.8192597232,other
+2010-01-01,Diet low in vegetables,1414257.64682463,other
+2011-01-01,Diet low in vegetables,1414920.119081552,other
+2012-01-01,Diet low in vegetables,1417228.1595291975,other
+2013-01-01,Diet low in vegetables,1413792.7298900636,other
+2014-01-01,Diet low in vegetables,1422744.268878621,other
+2015-01-01,Diet low in vegetables,1445070.76829603,other
+2016-01-01,Diet low in vegetables,1459655.8517373789,other
+2017-01-01,Diet low in vegetables,1462367.4113698432,other
+1990-01-01,Unsafe sex,461671.847591581,other
+1991-01-01,Unsafe sex,534031.9753640721,other
+1992-01-01,Unsafe sex,618562.1742764235,other
+1993-01-01,Unsafe sex,709085.8357660616,other
+1994-01-01,Unsafe sex,805607.2523332445,other
+1995-01-01,Unsafe sex,903917.1407750151,other
+1996-01-01,Unsafe sex,992796.2059891288,other
+1997-01-01,Unsafe sex,1076179.0479983,other
+1998-01-01,Unsafe sex,1175637.0317137141,other
+1999-01-01,Unsafe sex,1287095.1662009386,other
+2000-01-01,Unsafe sex,1392956.9356355362,other
+2001-01-01,Unsafe sex,1493488.8654775268,other
+2002-01-01,Unsafe sex,1586150.0192072338,other
+2003-01-01,Unsafe sex,1667507.5595845392,other
+2004-01-01,Unsafe sex,1725533.0675028432,other
+2005-01-01,Unsafe sex,1762207.249607751,other
+2006-01-01,Unsafe sex,1771140.6707742934,other
+2007-01-01,Unsafe sex,1749320.7924344996,other
+2008-01-01,Unsafe sex,1703043.8414931013,other
+2009-01-01,Unsafe sex,1650365.4408964296,other
+2010-01-01,Unsafe sex,1566757.975932727,other
+2011-01-01,Unsafe sex,1477966.380321538,other
+2012-01-01,Unsafe sex,1386429.4135186465,other
+2013-01-01,Unsafe sex,1300372.898619745,other
+2014-01-01,Unsafe sex,1216378.7416980022,other
+2015-01-01,Unsafe sex,1158737.0103139596,other
+2016-01-01,Unsafe sex,1101959.7386698294,other
+2017-01-01,Unsafe sex,1028619.9486135455,other
+1990-01-01,Low physical activity,842665.5793675783,other
+1991-01-01,Low physical activity,853210.7576916576,other
+1992-01-01,Low physical activity,867723.8858897091,other
+1993-01-01,Low physical activity,897760.837197497,other
+1994-01-01,Low physical activity,914048.1729944408,other
+1995-01-01,Low physical activity,919262.556092784,other
+1996-01-01,Low physical activity,917587.2266297204,other
+1997-01-01,Low physical activity,919434.1286398828,other
+1998-01-01,Low physical activity,924224.2793057776,other
+1999-01-01,Low physical activity,940794.6666271766,other
+2000-01-01,Low physical activity,953743.6941928619,other
+2001-01-01,Low physical activity,967277.0082111228,other
+2002-01-01,Low physical activity,989123.6476538327,other
+2003-01-01,Low physical activity,1009107.0055389779,other
+2004-01-01,Low physical activity,1009221.1055217629,other
+2005-01-01,Low physical activity,1026950.5705047816,other
+2006-01-01,Low physical activity,1023921.0362621341,other
+2007-01-01,Low physical activity,1034939.7759713514,other
+2008-01-01,Low physical activity,1059395.93858503,other
+2009-01-01,Low physical activity,1077823.4259210043,other
+2010-01-01,Low physical activity,1103728.1623666366,other
+2011-01-01,Low physical activity,1121225.5213254734,other
+2012-01-01,Low physical activity,1139594.9669285323,other
+2013-01-01,Low physical activity,1153171.0554328584,other
+2014-01-01,Low physical activity,1176347.6191297034,other
+2015-01-01,Low physical activity,1215129.403449666,other
+2016-01-01,Low physical activity,1242710.4325342036,other
+2017-01-01,Low physical activity,1263051.2883206718,other
+1990-01-01,High fasting plasma glucose,3436970.4088661913,other
+1991-01-01,High fasting plasma glucose,3508798.3954073545,other
+1992-01-01,High fasting plasma glucose,3597104.064958062,other
+1993-01-01,High fasting plasma glucose,3721781.6800066815,other
+1994-01-01,High fasting plasma glucose,3815828.88165196,other
+1995-01-01,High fasting plasma glucose,3886724.120094092,other
+1996-01-01,High fasting plasma glucose,3948468.264674354,other
+1997-01-01,High fasting plasma glucose,4033219.041742993,other
+1998-01-01,High fasting plasma glucose,4117958.7186601637,other
+1999-01-01,High fasting plasma glucose,4224079.759261761,other
+2000-01-01,High fasting plasma glucose,4324898.200201881,other
+2001-01-01,High fasting plasma glucose,4438142.543234758,other
+2002-01-01,High fasting plasma glucose,4611053.543099092,other
+2003-01-01,High fasting plasma glucose,4787898.524363618,other
+2004-01-01,High fasting plasma glucose,4880129.557916172,other
+2005-01-01,High fasting plasma glucose,5016361.945349441,other
+2006-01-01,High fasting plasma glucose,5056877.019323992,other
+2007-01-01,High fasting plasma glucose,5135848.389394545,other
+2008-01-01,High fasting plasma glucose,5258887.048965418,other
+2009-01-01,High fasting plasma glucose,5361133.733183252,other
+2010-01-01,High fasting plasma glucose,5480476.469718134,other
+2011-01-01,High fasting plasma glucose,5597446.696336182,other
+2012-01-01,High fasting plasma glucose,5727642.57188415,other
+2013-01-01,High fasting plasma glucose,5842881.611970818,other
+2014-01-01,High fasting plasma glucose,6002241.77812981,other
+2015-01-01,High fasting plasma glucose,6218325.332671787,other
+2016-01-01,High fasting plasma glucose,6399256.513664657,other
+2017-01-01,High fasting plasma glucose,6526028.192542807,other
+1990-01-01,High total cholesterol,3064670.69288,other
+1991-01-01,High total cholesterol,3136211.928812,other
+1992-01-01,High total cholesterol,3207753.164744,other
+1993-01-01,High total cholesterol,3279294.4006760004,other
+1994-01-01,High total cholesterol,3350835.6366080004,other
+1995-01-01,High total cholesterol,3422376.8725400004,other
+1996-01-01,High total cholesterol,3446695.3260560003,other
+1997-01-01,High total cholesterol,3471013.7795720003,other
+1998-01-01,High total cholesterol,3495332.2330879997,other
+1999-01-01,High total cholesterol,3519650.6866039997,other
+2000-01-01,High total cholesterol,3543969.1401199996,other
+2001-01-01,High total cholesterol,3595508.8088799994,other
+2002-01-01,High total cholesterol,3647048.4776399997,other
+2003-01-01,High total cholesterol,3698588.1463999995,other
+2004-01-01,High total cholesterol,3750127.8151599998,other
+2005-01-01,High total cholesterol,3801667.4839199996,other
+2006-01-01,High total cholesterol,3802096.2835699995,other
+2007-01-01,High total cholesterol,3848614.7441899995,other
+2008-01-01,High total cholesterol,3895133.20481,other
+2009-01-01,High total cholesterol,3941651.66543,other
+2010-01-01,High total cholesterol,3988170.12605,other
+2011-01-01,High total cholesterol,4055559.335436667,other
+2012-01-01,High total cholesterol,4122948.544823333,other
+2013-01-01,High total cholesterol,4190337.75421,other
+2014-01-01,High total cholesterol,4257726.963596666,other
+2015-01-01,High total cholesterol,4325116.1729833335,other
+2016-01-01,High total cholesterol,4392505.38237,other
+2017-01-01,High total cholesterol,4392505.38237,other
+1990-01-01,Obesity,2159329.452458732,obesity
+1991-01-01,Obesity,2222986.642707813,obesity
+1992-01-01,Obesity,2303362.649358615,obesity
+1993-01-01,Obesity,2428019.231299584,obesity
+1994-01-01,Obesity,2524269.750571927,obesity
+1995-01-01,Obesity,2586034.5309964,obesity
+1996-01-01,Obesity,2632155.462310994,obesity
+1997-01-01,Obesity,2688066.121623096,obesity
+1998-01-01,Obesity,2754377.070772423,obesity
+1999-01-01,Obesity,2860457.522575135,obesity
+2000-01-01,Obesity,2941771.5750670615,obesity
+2001-01-01,Obesity,3015683.059091821,obesity
+2002-01-01,Obesity,3121412.6855338174,obesity
+2003-01-01,Obesity,3217542.8807997135,obesity
+2004-01-01,Obesity,3262967.7820084775,obesity
+2005-01-01,Obesity,3357385.922355245,obesity
+2006-01-01,Obesity,3388547.8121663393,obesity
+2007-01-01,Obesity,3465994.58507053,obesity
+2008-01-01,Obesity,3586561.4154070863,obesity
+2009-01-01,Obesity,3688360.783075377,obesity
+2010-01-01,Obesity,3801353.3071589065,obesity
+2011-01-01,Obesity,3895077.9557727994,obesity
+2012-01-01,Obesity,4010870.8643959886,obesity
+2013-01-01,Obesity,4122520.195995368,obesity
+2014-01-01,Obesity,4272118.459091743,obesity
+2015-01-01,Obesity,4462996.03172984,obesity
+2016-01-01,Obesity,4614666.26193191,obesity
+2017-01-01,Obesity,4724346.293081812,obesity
+1990-01-01,High systolic blood pressure,6884458.978450782,other
+1991-01-01,High systolic blood pressure,6988580.17376903,other
+1992-01-01,High systolic blood pressure,7115388.804416497,other
+1993-01-01,High systolic blood pressure,7329202.965778931,other
+1994-01-01,High systolic blood pressure,7469316.399581823,other
+1995-01-01,High systolic blood pressure,7537548.157804778,other
+1996-01-01,High systolic blood pressure,7568246.53468773,other
+1997-01-01,High systolic blood pressure,7626124.417788239,other
+1998-01-01,High systolic blood pressure,7688173.700941966,other
+1999-01-01,High systolic blood pressure,7817683.343806313,other
+2000-01-01,High systolic blood pressure,7932073.942511317,other
+2001-01-01,High systolic blood pressure,8029451.542578828,other
+2002-01-01,High systolic blood pressure,8188714.68595545,other
+2003-01-01,High systolic blood pressure,8325151.221296005,other
+2004-01-01,High systolic blood pressure,8321914.6958993785,other
+2005-01-01,High systolic blood pressure,8440626.756151574,other
+2006-01-01,High systolic blood pressure,8416624.12530093,other
+2007-01-01,High systolic blood pressure,8503613.80063578,other
+2008-01-01,High systolic blood pressure,8699254.174391551,other
+2009-01-01,High systolic blood pressure,8863423.502981037,other
+2010-01-01,High systolic blood pressure,9081676.319683028,other
+2011-01-01,High systolic blood pressure,9239375.173456157,other
+2012-01-01,High systolic blood pressure,9410997.058599548,other
+2013-01-01,High systolic blood pressure,9535296.958338488,other
+2014-01-01,High systolic blood pressure,9756852.925839668,other
+2015-01-01,High systolic blood pressure,10070692.40440107,other
+2016-01-01,High systolic blood pressure,10293777.654105527,other
+2017-01-01,High systolic blood pressure,10440818.47945214,other
+1990-01-01,Smoking,5681577.793177892,other
+1991-01-01,Smoking,5769043.286664338,other
+1992-01-01,Smoking,5869243.876303135,other
+1993-01-01,Smoking,6023154.990263874,other
+1994-01-01,Smoking,6115916.981666201,other
+1995-01-01,Smoking,6170797.451881009,other
+1996-01-01,Smoking,6180919.4784275,other
+1997-01-01,Smoking,6208120.344765425,other
+1998-01-01,Smoking,6244660.279835657,other
+1999-01-01,Smoking,6298194.797707612,other
+2000-01-01,Smoking,6351837.677105027,other
+2001-01-01,Smoking,6382733.901889055,other
+2002-01-01,Smoking,6444008.309107475,other
+2003-01-01,Smoking,6500340.7072641,other
+2004-01-01,Smoking,6450954.751371218,other
+2005-01-01,Smoking,6457486.750924572,other
+2006-01-01,Smoking,6375847.553951303,other
+2007-01-01,Smoking,6383033.9151659785,other
+2008-01-01,Smoking,6447767.153272592,other
+2009-01-01,Smoking,6495294.181717594,other
+2010-01-01,Smoking,6569515.3464782275,other
+2011-01-01,Smoking,6615962.057248077,other
+2012-01-01,Smoking,6663081.08557518,other
+2013-01-01,Smoking,6673225.404246758,other
+2014-01-01,Smoking,6764715.825262199,other
+2015-01-01,Smoking,6936294.573047942,other
+2016-01-01,Smoking,7046703.250918401,other
+2017-01-01,Smoking,7099111.294246201,other
+1990-01-01,Iron deficiency,125242.94830566432,other
+1991-01-01,Iron deficiency,123752.23231370945,other
+1992-01-01,Iron deficiency,124721.59590057735,other
+1993-01-01,Iron deficiency,121526.66447447536,other
+1994-01-01,Iron deficiency,119260.72277416426,other
+1995-01-01,Iron deficiency,118014.576296487,other
+1996-01-01,Iron deficiency,116431.41828135258,other
+1997-01-01,Iron deficiency,117106.43096290472,other
+1998-01-01,Iron deficiency,117451.87434006893,other
+1999-01-01,Iron deficiency,117171.33416468637,other
+2000-01-01,Iron deficiency,115979.06384155949,other
+2001-01-01,Iron deficiency,111445.927842053,other
+2002-01-01,Iron deficiency,106458.75903959628,other
+2003-01-01,Iron deficiency,101206.91028273117,other
+2004-01-01,Iron deficiency,97904.38054282883,other
+2005-01-01,Iron deficiency,96120.01177894454,other
+2006-01-01,Iron deficiency,92610.6618226026,other
+2007-01-01,Iron deficiency,88885.35514471948,other
+2008-01-01,Iron deficiency,85675.91249087082,other
+2009-01-01,Iron deficiency,83044.11028874981,other
+2010-01-01,Iron deficiency,80614.05044625863,other
+2011-01-01,Iron deficiency,77295.45270979378,other
+2012-01-01,Iron deficiency,72036.36214440179,other
+2013-01-01,Iron deficiency,68297.2543731029,other
+2014-01-01,Iron deficiency,65610.49187012603,other
+2015-01-01,Iron deficiency,62638.533392241356,other
+2016-01-01,Iron deficiency,61127.83419291367,other
+2017-01-01,Iron deficiency,59881.949118928096,other
+1990-01-01,Zinc deficiency,142313.11737620836,other
+1991-01-01,Zinc deficiency,136935.23449983186,other
+1992-01-01,Zinc deficiency,131265.5077792174,other
+1993-01-01,Zinc deficiency,126413.99816828765,other
+1994-01-01,Zinc deficiency,122378.87429803473,other
+1995-01-01,Zinc deficiency,118112.94915642375,other
+1996-01-01,Zinc deficiency,111752.86622042653,other
+1997-01-01,Zinc deficiency,106098.00678874552,other
+1998-01-01,Zinc deficiency,101097.60158771275,other
+1999-01-01,Zinc deficiency,95884.33357508447,other
+2000-01-01,Zinc deficiency,91046.57559883864,other
+2001-01-01,Zinc deficiency,84464.04649638351,other
+2002-01-01,Zinc deficiency,78781.11714549032,other
+2003-01-01,Zinc deficiency,74312.88099208464,other
+2004-01-01,Zinc deficiency,70531.8556208315,other
+2005-01-01,Zinc deficiency,67096.33841902124,other
+2006-01-01,Zinc deficiency,63539.21874824162,other
+2007-01-01,Zinc deficiency,59974.57113532542,other
+2008-01-01,Zinc deficiency,56797.093723874255,other
+2009-01-01,Zinc deficiency,53849.09453705494,other
+2010-01-01,Zinc deficiency,50821.18168900856,other
+2011-01-01,Zinc deficiency,46316.47302254086,other
+2012-01-01,Zinc deficiency,42409.591728012965,other
+2013-01-01,Zinc deficiency,38762.408423609806,other
+2014-01-01,Zinc deficiency,35503.523230621424,other
+2015-01-01,Zinc deficiency,32685.413929612412,other
+2016-01-01,Zinc deficiency,30303.859771213945,other
+2017-01-01,Zinc deficiency,28594.52634608962,other
+1990-01-01,Vitamin A deficiency,986994.9961950422,other
+1991-01-01,Vitamin A deficiency,971721.1216347036,other
+1992-01-01,Vitamin A deficiency,950555.6552633931,other
+1993-01-01,Vitamin A deficiency,931671.8767951422,other
+1994-01-01,Vitamin A deficiency,914227.2521151188,other
+1995-01-01,Vitamin A deficiency,890661.5936631701,other
+1996-01-01,Vitamin A deficiency,862841.4946344348,other
+1997-01-01,Vitamin A deficiency,830357.7958679155,other
+1998-01-01,Vitamin A deficiency,799376.2669841069,other
+1999-01-01,Vitamin A deficiency,762159.4713614403,other
+2000-01-01,Vitamin A deficiency,724028.1525985458,other
+2001-01-01,Vitamin A deficiency,681755.0791086352,other
+2002-01-01,Vitamin A deficiency,636888.4348981562,other
+2003-01-01,Vitamin A deficiency,589182.3923081832,other
+2004-01-01,Vitamin A deficiency,545803.4973251168,other
+2005-01-01,Vitamin A deficiency,507993.28147454845,other
+2006-01-01,Vitamin A deficiency,470133.17599489674,other
+2007-01-01,Vitamin A deficiency,437355.95541494346,other
+2008-01-01,Vitamin A deficiency,414916.7751292071,other
+2009-01-01,Vitamin A deficiency,397237.19677150744,other
+2010-01-01,Vitamin A deficiency,384558.2665693182,other
+2011-01-01,Vitamin A deficiency,363747.3772374427,other
+2012-01-01,Vitamin A deficiency,340673.7939605111,other
+2013-01-01,Vitamin A deficiency,314737.6379050642,other
+2014-01-01,Vitamin A deficiency,287695.39709002216,other
+2015-01-01,Vitamin A deficiency,266130.6716539265,other
+2016-01-01,Vitamin A deficiency,246659.16656900808,other
+2017-01-01,Vitamin A deficiency,232776.7353990169,other
+1990-01-01,Low bone mineral density,152126.93821697735,other
+1991-01-01,Low bone mineral density,155500.36146843946,other
+1992-01-01,Low bone mineral density,159199.63441562638,other
+1993-01-01,Low bone mineral density,163634.934273842,other
+1994-01-01,Low bone mineral density,167304.15644828073,other
+1995-01-01,Low bone mineral density,170745.474548759,other
+1996-01-01,Low bone mineral density,174112.76508453765,other
+1997-01-01,Low bone mineral density,178978.39573655778,other
+1998-01-01,Low bone mineral density,183587.7053445478,other
+1999-01-01,Low bone mineral density,188111.99770466614,other
+2000-01-01,Low bone mineral density,193169.8900743929,other
+2001-01-01,Low bone mineral density,198968.41130874906,other
+2002-01-01,Low bone mineral density,207174.93664096718,other
+2003-01-01,Low bone mineral density,216598.2116311724,other
+2004-01-01,Low bone mineral density,222985.62687531905,other
+2005-01-01,Low bone mineral density,231654.24625519637,other
+2006-01-01,Low bone mineral density,237894.7652350663,other
+2007-01-01,Low bone mineral density,244892.3401924936,other
+2008-01-01,Low bone mineral density,252302.20906481825,other
+2009-01-01,Low bone mineral density,258066.05048266164,other
+2010-01-01,Low bone mineral density,264904.3096382788,other
+2011-01-01,Low bone mineral density,272535.56488953583,other
+2012-01-01,Low bone mineral density,280059.74361554737,other
+2013-01-01,Low bone mineral density,289020.4670577487,other
+2014-01-01,Low bone mineral density,299673.3874415993,other
+2015-01-01,Low bone mineral density,311543.943607089,other
+2016-01-01,Low bone mineral density,320874.8974042864,other
+2017-01-01,Low bone mineral density,327314.2626068359,other
+1990-01-01,Air pollution,4693071.312181505,other
+1991-01-01,Air pollution,4720094.144005302,other
+1992-01-01,Air pollution,4745836.576784678,other
+1993-01-01,Air pollution,4768144.772027895,other
+1994-01-01,Air pollution,4773589.9130465295,other
+1995-01-01,Air pollution,4755628.878163251,other
+1996-01-01,Air pollution,4749140.800262079,other
+1997-01-01,Air pollution,4766895.258008511,other
+1998-01-01,Air pollution,4760687.912836488,other
+1999-01-01,Air pollution,4726253.309659432,other
+2000-01-01,Air pollution,4709245.489245559,other
+2001-01-01,Air pollution,4702796.730347776,other
+2002-01-01,Air pollution,4716666.140444263,other
+2003-01-01,Air pollution,4725277.203789958,other
+2004-01-01,Air pollution,4673825.64355014,other
+2005-01-01,Air pollution,4650017.131192728,other
+2006-01-01,Air pollution,4615828.129145613,other
+2007-01-01,Air pollution,4626412.0751122665,other
+2008-01-01,Air pollution,4671511.4346198905,other
+2009-01-01,Air pollution,4713605.403868277,other
+2010-01-01,Air pollution,4761102.2927080635,other
+2011-01-01,Air pollution,4804868.945799183,other
+2012-01-01,Air pollution,4770981.619096525,other
+2013-01-01,Air pollution,4767978.050625717,other
+2014-01-01,Air pollution,4775123.183699458,other
+2015-01-01,Air pollution,4875230.894217635,other
+2016-01-01,Air pollution,4863821.56709063,other
+2017-01-01,Air pollution,4895475.998297713,other
+1990-01-01,Outdoor air pollution,2143845.13,other
+1991-01-01,Outdoor air pollution,2204256.45,other
+1992-01-01,Outdoor air pollution,2260754.7,other
+1993-01-01,Outdoor air pollution,2327997.81,other
+1994-01-01,Outdoor air pollution,2374627.04,other
+1995-01-01,Outdoor air pollution,2397545.17,other
+1996-01-01,Outdoor air pollution,2435198.13,other
+1997-01-01,Outdoor air pollution,2474685.61,other
+1998-01-01,Outdoor air pollution,2505346.22,other
+1999-01-01,Outdoor air pollution,2529888.13,other
+2000-01-01,Outdoor air pollution,2552798.2,other
+2001-01-01,Outdoor air pollution,2596355.38,other
+2002-01-01,Outdoor air pollution,2653391.61,other
+2003-01-01,Outdoor air pollution,2706991.96,other
+2004-01-01,Outdoor air pollution,2714489.07,other
+2005-01-01,Outdoor air pollution,2738822.82,other
+2006-01-01,Outdoor air pollution,2756217.38,other
+2007-01-01,Outdoor air pollution,2807283.47,other
+2008-01-01,Outdoor air pollution,2887186.83,other
+2009-01-01,Outdoor air pollution,2960814.94,other
+2010-01-01,Outdoor air pollution,3037813.35,other
+2011-01-01,Outdoor air pollution,3119026.79,other
+2012-01-01,Outdoor air pollution,3090711.98,other
+2013-01-01,Outdoor air pollution,3140220.85,other
+2014-01-01,Outdoor air pollution,3176113.07,other
+2015-01-01,Outdoor air pollution,3318502.52,other
+2016-01-01,Outdoor air pollution,3317660.44,other
+2017-01-01,Outdoor air pollution,3408877.62,other
+1990-01-01,Diet low in fiber,593669.5975337254,other
+1991-01-01,Diet low in fiber,602587.3056577559,other
+1992-01-01,Diet low in fiber,615631.9993611275,other
+1993-01-01,Diet low in fiber,636351.927362491,other
+1994-01-01,Diet low in fiber,649962.5082652721,other
+1995-01-01,Diet low in fiber,655456.8087031129,other
+1996-01-01,Diet low in fiber,655942.1525385925,other
+1997-01-01,Diet low in fiber,658604.4094223296,other
+1998-01-01,Diet low in fiber,661045.8316960479,other
+1999-01-01,Diet low in fiber,672538.1696427766,other
+2000-01-01,Diet low in fiber,682818.1194375749,other
+2001-01-01,Diet low in fiber,690226.3198491625,other
+2002-01-01,Diet low in fiber,703813.0957560728,other
+2003-01-01,Diet low in fiber,715879.5263136887,other
+2004-01-01,Diet low in fiber,716651.014576545,other
+2005-01-01,Diet low in fiber,728657.2046114311,other
+2006-01-01,Diet low in fiber,728426.3248970538,other
+2007-01-01,Diet low in fiber,736746.6979052209,other
+2008-01-01,Diet low in fiber,752751.2163758543,other
+2009-01-01,Diet low in fiber,765319.7365056048,other
+2010-01-01,Diet low in fiber,782405.1630489199,other
+2011-01-01,Diet low in fiber,794510.3523368625,other
+2012-01-01,Diet low in fiber,805784.5519738689,other
+2013-01-01,Diet low in fiber,813476.7677296984,other
+2014-01-01,Diet low in fiber,827283.8186129995,other
+2015-01-01,Diet low in fiber,850313.9957783666,other
+2016-01-01,Diet low in fiber,865112.2570991571,other
+2017-01-01,Diet low in fiber,873407.7769020869,other
+1990-01-01,Diet high in sodium,2222475.141435001,other
+1991-01-01,Diet high in sodium,2252610.5447755144,other
+1992-01-01,Diet high in sodium,2292060.317920148,other
+1993-01-01,Diet high in sodium,2315164.70981874,other
+1994-01-01,Diet high in sodium,2319321.1782110943,other
+1995-01-01,Diet high in sodium,2329576.5438521467,other
+1996-01-01,Diet high in sodium,2325141.333989941,other
+1997-01-01,Diet high in sodium,2321722.4782070983,other
+1998-01-01,Diet high in sodium,2326097.7800662625,other
+1999-01-01,Diet high in sodium,2346825.0379411546,other
+2000-01-01,Diet high in sodium,2373206.334725754,other
+2001-01-01,Diet high in sodium,2388334.971228993,other
+2002-01-01,Diet high in sodium,2429819.843819947,other
+2003-01-01,Diet high in sodium,2479178.8812872423,other
+2004-01-01,Diet high in sodium,2501628.106615172,other
+2005-01-01,Diet high in sodium,2519956.30472558,other
+2006-01-01,Diet high in sodium,2499281.3420524728,other
+2007-01-01,Diet high in sodium,2524216.531168602,other
+2008-01-01,Diet high in sodium,2587152.255461254,other
+2009-01-01,Diet high in sodium,2658035.345236977,other
+2010-01-01,Diet high in sodium,2742750.7638814724,other
+2011-01-01,Diet high in sodium,2804422.155573809,other
+2012-01-01,Diet high in sodium,2862382.062929016,other
+2013-01-01,Diet high in sodium,2891087.5243470045,other
+2014-01-01,Diet high in sodium,2972737.220399596,other
+2015-01-01,Diet high in sodium,3079919.688510306,other
+2016-01-01,Diet high in sodium,3163601.0911483155,other
+2017-01-01,Diet high in sodium,3196514.264557206,other
+1990-01-01,Diet low in legumes,400632.0827165741,other
+1991-01-01,Diet low in legumes,406915.6254771634,other
+1992-01-01,Diet low in legumes,416920.06334536796,other
+1993-01-01,Diet low in legumes,436911.59275542415,other
+1994-01-01,Diet low in legumes,449216.1517499629,other
+1995-01-01,Diet low in legumes,451432.5448169842,other
+1996-01-01,Diet low in legumes,447422.1157895475,other
+1997-01-01,Diet low in legumes,443554.5431391727,other
+1998-01-01,Diet low in legumes,442196.3333915736,other
+1999-01-01,Diet low in legumes,452046.6141634213,other
+2000-01-01,Diet low in legumes,459620.2973140387,other
+2001-01-01,Diet low in legumes,464378.2286563875,other
+2002-01-01,Diet low in legumes,474487.02370212384,other
+2003-01-01,Diet low in legumes,482644.6024889346,other
+2004-01-01,Diet low in legumes,482412.69063544885,other
+2005-01-01,Diet low in legumes,489662.8976227488,other
+2006-01-01,Diet low in legumes,481206.5111638403,other
+2007-01-01,Diet low in legumes,480959.033156131,other
+2008-01-01,Diet low in legumes,487495.6237459285,other
+2009-01-01,Diet low in legumes,488713.18668861955,other
+2010-01-01,Diet low in legumes,495614.65161643847,other
+2011-01-01,Diet low in legumes,497015.71374817094,other
+2012-01-01,Diet low in legumes,499666.31284955295,other
+2013-01-01,Diet low in legumes,501987.98515505507,other
+2014-01-01,Diet low in legumes,507971.39734970155,other
+2015-01-01,Diet low in legumes,523451.0215131252,other
+2016-01-01,Diet low in legumes,529682.498656666,other
+2017-01-01,Diet low in legumes,534767.1311560118,other
+1990-01-01,Diet low in calcium,103567.9417095823,other
+1991-01-01,Diet low in calcium,106215.06849788886,other
+1992-01-01,Diet low in calcium,108972.16362864744,other
+1993-01-01,Diet low in calcium,112389.90336413748,other
+1994-01-01,Diet low in calcium,114832.52720434705,other
+1995-01-01,Diet low in calcium,117021.93824321672,other
+1996-01-01,Diet low in calcium,118591.74147583215,other
+1997-01-01,Diet low in calcium,120290.48212646465,other
+1998-01-01,Diet low in calcium,122564.55557089078,other
+1999-01-01,Diet low in calcium,125328.56434557475,other
+2000-01-01,Diet low in calcium,127264.33010086807,other
+2001-01-01,Diet low in calcium,129431.4697990742,other
+2002-01-01,Diet low in calcium,132519.0978710584,other
+2003-01-01,Diet low in calcium,135708.81319049388,other
+2004-01-01,Diet low in calcium,137379.5746874341,other
+2005-01-01,Diet low in calcium,140308.29702214245,other
+2006-01-01,Diet low in calcium,142061.37534021251,other
+2007-01-01,Diet low in calcium,145000.4821195785,other
+2008-01-01,Diet low in calcium,148958.00616046108,other
+2009-01-01,Diet low in calcium,152579.75894188293,other
+2010-01-01,Diet low in calcium,156463.3419617508,other
+2011-01-01,Diet low in calcium,160055.8549545304,other
+2012-01-01,Diet low in calcium,163472.17663379482,other
+2013-01-01,Diet low in calcium,166585.79089720786,other
+2014-01-01,Diet low in calcium,171234.5731371636,other
+2015-01-01,Diet low in calcium,177124.9355250843,other
+2016-01-01,Diet low in calcium,181830.0617421996,other
+2017-01-01,Diet low in calcium,184760.116729973,other
+1990-01-01,Diet high in red meat,12894.936697186911,other
+1991-01-01,Diet high in red meat,13077.867071096303,other
+1992-01-01,Diet high in red meat,13227.115764033158,other
+1993-01-01,Diet high in red meat,13551.580911016115,other
+1994-01-01,Diet high in red meat,13688.490210235312,other
+1995-01-01,Diet high in red meat,13851.860980205645,other
+1996-01-01,Diet high in red meat,13909.255708807701,other
+1997-01-01,Diet high in red meat,13955.933677197774,other
+1998-01-01,Diet high in red meat,14153.740910506785,other
+1999-01-01,Diet high in red meat,14455.151808239309,other
+2000-01-01,Diet high in red meat,14603.256727199623,other
+2001-01-01,Diet high in red meat,14862.5652159773,other
+2002-01-01,Diet high in red meat,15230.331543389932,other
+2003-01-01,Diet high in red meat,15604.57529468603,other
+2004-01-01,Diet high in red meat,15731.651045971497,other
+2005-01-01,Diet high in red meat,16104.284761612776,other
+2006-01-01,Diet high in red meat,16318.715232042081,other
+2007-01-01,Diet high in red meat,16835.506778160758,other
+2008-01-01,Diet high in red meat,17458.019648122845,other
+2009-01-01,Diet high in red meat,17985.532771817463,other
+2010-01-01,Diet high in red meat,18532.389158335456,other
+2011-01-01,Diet high in red meat,19198.051867934093,other
+2012-01-01,Diet high in red meat,19923.70117582356,other
+2013-01-01,Diet high in red meat,20635.44288339515,other
+2014-01-01,Diet high in red meat,21601.69743244186,other
+2015-01-01,Diet high in red meat,22847.934845052416,other
+2016-01-01,Diet high in red meat,24015.33788882336,other
+2017-01-01,Diet high in red meat,24833.29474625928,other
+1990-01-01,Diet low in whole grains,2151022.727477306,other
+1991-01-01,Diet low in whole grains,2185116.26531754,other
+1992-01-01,Diet low in whole grains,2234234.521320335,other
+1993-01-01,Diet low in whole grains,2312937.054817973,other
+1994-01-01,Diet low in whole grains,2366171.186856575,other
+1995-01-01,Diet low in whole grains,2388733.5707146777,other
+1996-01-01,Diet low in whole grains,2394579.7989163958,other
+1997-01-01,Diet low in whole grains,2409551.1958272504,other
+1998-01-01,Diet low in whole grains,2424625.840952835,other
+1999-01-01,Diet low in whole grains,2467252.56614678,other
+2000-01-01,Diet low in whole grains,2505478.864748872,other
+2001-01-01,Diet low in whole grains,2533247.807539987,other
+2002-01-01,Diet low in whole grains,2580824.655986281,other
+2003-01-01,Diet low in whole grains,2618813.14859773,other
+2004-01-01,Diet low in whole grains,2614228.7004444124,other
+2005-01-01,Diet low in whole grains,2643503.7170360098,other
+2006-01-01,Diet low in whole grains,2617239.0723367683,other
+2007-01-01,Diet low in whole grains,2627876.819679695,other
+2008-01-01,Diet low in whole grains,2670700.4951673145,other
+2009-01-01,Diet low in whole grains,2700577.0933543365,other
+2010-01-01,Diet low in whole grains,2749581.167809541,other
+2011-01-01,Diet low in whole grains,2782609.1099799965,other
+2012-01-01,Diet low in whole grains,2821442.4048902118,other
+2013-01-01,Diet low in whole grains,2845730.0604299987,other
+2014-01-01,Diet low in whole grains,2899395.9966644696,other
+2015-01-01,Diet low in whole grains,2983998.1135839927,other
+2016-01-01,Diet low in whole grains,3039445.4381577875,other
+2017-01-01,Diet low in whole grains,3065588.513026798,other
+1990-01-01,Diet low in nuts and seeds,1409270.2182090478,other
+1991-01-01,Diet low in nuts and seeds,1429384.2062686863,other
+1992-01-01,Diet low in nuts and seeds,1458515.3668981798,other
+1993-01-01,Diet low in nuts and seeds,1508398.818380002,other
+1994-01-01,Diet low in nuts and seeds,1538154.1259474345,other
+1995-01-01,Diet low in nuts and seeds,1548656.1509451126,other
+1996-01-01,Diet low in nuts and seeds,1547947.5591880537,other
+1997-01-01,Diet low in nuts and seeds,1554595.1041375676,other
+1998-01-01,Diet low in nuts and seeds,1559530.611686521,other
+1999-01-01,Diet low in nuts and seeds,1583488.27538327,other
+2000-01-01,Diet low in nuts and seeds,1606580.6658026506,other
+2001-01-01,Diet low in nuts and seeds,1625938.6833085562,other
+2002-01-01,Diet low in nuts and seeds,1660048.9219853112,other
+2003-01-01,Diet low in nuts and seeds,1689864.1462094681,other
+2004-01-01,Diet low in nuts and seeds,1689426.420687746,other
+2005-01-01,Diet low in nuts and seeds,1720012.817234521,other
+2006-01-01,Diet low in nuts and seeds,1718809.428581344,other
+2007-01-01,Diet low in nuts and seeds,1737232.2700982054,other
+2008-01-01,Diet low in nuts and seeds,1775415.158739762,other
+2009-01-01,Diet low in nuts and seeds,1800950.56726215,other
+2010-01-01,Diet low in nuts and seeds,1842134.361759769,other
+2011-01-01,Diet low in nuts and seeds,1870725.910536221,other
+2012-01-01,Diet low in nuts and seeds,1900384.9513905263,other
+2013-01-01,Diet low in nuts and seeds,1920514.03139474,other
+2014-01-01,Diet low in nuts and seeds,1949977.605773432,other
+2015-01-01,Diet low in nuts and seeds,2006782.210689716,other
+2016-01-01,Diet low in nuts and seeds,2042618.7147836653,other
+2017-01-01,Diet low in nuts and seeds,2062521.7087097762,other
+1990-01-01,Diet low in seafood omega-3 fatty acids,992665.0778746824,other
+1991-01-01,Diet low in seafood omega-3 fatty acids,1007262.1707387556,other
+1992-01-01,Diet low in seafood omega-3 fatty acids,1027648.3694926072,other
+1993-01-01,Diet low in seafood omega-3 fatty acids,1060458.917443446,other
+1994-01-01,Diet low in seafood omega-3 fatty acids,1083547.164474682,other
+1995-01-01,Diet low in seafood omega-3 fatty acids,1092308.4346649456,other
+1996-01-01,Diet low in seafood omega-3 fatty acids,1094676.8278874585,other
+1997-01-01,Diet low in seafood omega-3 fatty acids,1102405.6014393126,other
+1998-01-01,Diet low in seafood omega-3 fatty acids,1105662.443832325,other
+1999-01-01,Diet low in seafood omega-3 fatty acids,1123007.798176564,other
+2000-01-01,Diet low in seafood omega-3 fatty acids,1139759.58036109,other
+2001-01-01,Diet low in seafood omega-3 fatty acids,1152694.2012306028,other
+2002-01-01,Diet low in seafood omega-3 fatty acids,1175485.537051926,other
+2003-01-01,Diet low in seafood omega-3 fatty acids,1194261.48792251,other
+2004-01-01,Diet low in seafood omega-3 fatty acids,1192369.287500699,other
+2005-01-01,Diet low in seafood omega-3 fatty acids,1210534.450254705,other
+2006-01-01,Diet low in seafood omega-3 fatty acids,1208477.6031855398,other
+2007-01-01,Diet low in seafood omega-3 fatty acids,1220187.8939080357,other
+2008-01-01,Diet low in seafood omega-3 fatty acids,1244783.2130978245,other
+2009-01-01,Diet low in seafood omega-3 fatty acids,1265076.3271344611,other
+2010-01-01,Diet low in seafood omega-3 fatty acids,1293657.4743601338,other
+2011-01-01,Diet low in seafood omega-3 fatty acids,1314143.7841778712,other
+2012-01-01,Diet low in seafood omega-3 fatty acids,1334954.4967560926,other
+2013-01-01,Diet low in seafood omega-3 fatty acids,1347868.9107905424,other
+2014-01-01,Diet low in seafood omega-3 fatty acids,1369464.8353085346,other
+2015-01-01,Diet low in seafood omega-3 fatty acids,1408879.4385128585,other
+2016-01-01,Diet low in seafood omega-3 fatty acids,1432956.552657741,other
+2017-01-01,Diet low in seafood omega-3 fatty acids,1444907.2241340056,other

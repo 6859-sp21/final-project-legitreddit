@@ -1,0 +1,14 @@
+{
+  "name": "@yowhan/final-project-obese-vs-calories",
+  "main": "854133e1fd541805@230.js",
+  "version": "230.0.0",
+  "homepage": "https://observablehq.com/@yowhan/final-project-obese-vs-calories",
+  "author": {
+    "name": "John Kim",
+    "url": "https://observablehq.com/@yowhan"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
